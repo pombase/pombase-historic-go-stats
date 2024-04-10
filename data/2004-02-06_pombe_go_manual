@@ -1,0 +1,606 @@
+GeneDB_Spombe	SPBC776.03			GO:0006566	GOC:unpublished	ISS	SPTR:P31116	P	homoserine dehydrogenase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.03			GO:0006555	GOC:unpublished	ISS	SPTR:P31116	P	homoserine dehydrogenase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.03			GO:0004412	GOC:unpublished	ISS	SPTR:P31116	F	homoserine dehydrogenase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.03			GO:0008372	GOC:unpublished	ISS	SPTR:P31116	C	homoserine dehydrogenase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.15c			GO:0006103	GOC:unpublished	ISS	SPTR:P19262	P	dihydrolipoamide S-succinyltransferase (e2 component of oxoglutarate dehydrogenase complex) (predicted)		gene	taxon:4896	20030811	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.15c			GO:0006099	GOC:unpublished	ISS	SPTR:P19262	P	dihydrolipoamide S-succinyltransferase (e2 component of oxoglutarate dehydrogenase complex) (predicted)		gene	taxon:4896	20030811	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.15c			GO:0004149	GOC:unpublished	ISS	SPTR:Q9UWE0	F	dihydrolipoamide S-succinyltransferase (e2 component of oxoglutarate dehydrogenase complex) (predicted)		gene	taxon:4896	20030811	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.15c			GO:0009353	GOC:unpublished	IC	GO:0004149	F	dihydrolipoamide S-succinyltransferase (e2 component of oxoglutarate dehydrogenase complex) (predicted)		gene	taxon:4896	20030811	GeneDB_Spombe
+GeneDB_Spombe	SPAC1F12.07			GO:0006564	GOC:unpublished	ISS	SPTR:P33330	P	phosphoserine aminotransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC1F12.07			GO:0004647	GOC:unpublished	ISS	SPTR:P33330	F	phosphoserine aminotransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC1F12.07			GO:0008372	GOC:unpublished	ND		C	phosphoserine aminotransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC1677.03c			GO:0006567	GOC:unpublished	ISS	SPTR:P00927	P	threonine dehydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC1677.03c			GO:0004794	GOC:unpublished	ISS	SPTR:P00927	F	threonine dehydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC1677.03c			GO:0008372	GOC:unpublished	ND		C	threonine dehydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC31E1.04	pep12	NOT	GO:0006896	PMID:14575697	IDA		P	SNARE (predicted)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPBC31E1.04	pep12		GO:0016192	PMID:14575697	TAS		P	SNARE (predicted)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPBC31E1.04	pep12		GO:0005484	PMID:14575697	TAS		F	SNARE (predicted)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPBC31E1.04	pep12		GO:0005774	PMID:14575697	TAS	GO:0005484	C	SNARE (predicted)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPAC3G9.06			GO:0006432	GOC:unpublished	ISS	SPTR:P15625	P	phenylalanine-tRNA ligase (alpha subunit) (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC3G9.06			GO:0004826	GOC:unpublished	ISS	SPTR:P15625	F	phenylalanine-tRNA ligase (alpha subunit) (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC3G9.06			GO:0005737	GOC:unpublished	ISS	SPTR:P15625	C	phenylalanine-tRNA ligase (alpha subunit) (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC3G9.06			GO:0009328	GOC:unpublished	ISS	SPTR:P15625	C	phenylalanine-tRNA ligase (alpha subunit) (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAPB17E12.07c			GO:0000214	GOC:unpublished	ISS	SPTR:P16658	C	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPAPB17E12.07c			GO:0000213	GOC:unpublished	ISS	SPTR:P16658	F	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPAPB17E12.07c			GO:0005637	GOC:unpublished	ISS	SPTR:P16658	C	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPAPB17E12.07c			GO:0006388	GOC:unpublished	ISS	SPTR:P16658	P	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPBC25B2.09c			GO:0006420	GOC:unpublished	ISS	SPTR:P38714	P	arginine-tRNA ligase		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC25B2.09c			GO:0004814	GOC:unpublished	ISS	SPTR:P38714	F	arginine-tRNA ligase		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC25B2.09c			GO:0008372	GOC:unpublished	ND		C	arginine-tRNA ligase		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPCC965.07c	gst2		GO:0006979	PMID:11997110	TAS		P	glutathione S-transferase (PMID 11997110)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC965.07c	gst2		GO:0042493	PMID:12063243	ISS	P23202	P	glutathione S-transferase (PMID 11997110)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC965.07c	gst2		GO:0004364	PMID:11997110	IDA		F	glutathione S-transferase (PMID 11997110)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC965.07c	gst2		GO:0005737	PMID:12063243	IDA		C	glutathione S-transferase (PMID 11997110)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC965.07c	gst2		GO:0005634	PMID:12063243	IDA		C	glutathione S-transferase (PMID 11997110)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPBC337.14	rpb4		GO:0006366	PMID:10523639	TAS		P	DNA-directed RNA polymerase (II subunit)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBC337.14	rpb4		GO:0003899	PMID:10523639	IDA		F	DNA-directed RNA polymerase (II subunit)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBC337.14	rpb4		GO:0016591	PMID:10523639	TAS		C	DNA-directed RNA polymerase (II subunit)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBP23A10.08	alp5		GO:0006325	GOC:unpublished	ISS	SPTR:P80428	P	actin-like protein		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPBP23A10.08	alp5		GO:0005634	GOC:unpublished	ISS	SPTR:P80428	C	actin-like protein		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPBP23A10.08	alp5		GO:0007088	GOC:unpublished	IMP		P	actin-like protein		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPBC1773.10c			GO:0006421	GOC:unpublished	IC	GO:0004816	P	asparagine-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPBC1773.10c			GO:0004816	GOC:unpublished	ISS	SPTR:P38707	F	asparagine-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPBC1773.10c			GO:0005737	GOC:unpublished	ISS	SPTR:P38707	C	asparagine-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPACUNK4.06c	rpb7		GO:0006366	PMID:9322754	IC	GO:0003899	P	DNA-directed RNA polymerase (II subunit) (PMID 9322754)	SPAPYUK71.02	gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPACUNK4.06c	rpb7		GO:0003899	PMID:9322754	IDA		F	DNA-directed RNA polymerase (II subunit) (PMID 9322754)	SPAPYUK71.02	gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPACUNK4.06c	rpb7		GO:0016591	PMID:9322754	IC	GO:0003899	C	DNA-directed RNA polymerase (II subunit) (PMID 9322754)	SPAPYUK71.02	gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.13c	prz1		GO:0006874	PMID:12637524	IDA		P	transcriptional regulator (PMID 12637524)		gene	taxon:4896	20030702	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.13c	prz1	NOT	GO:0030644	PMID:12637524	IDA		P	transcriptional regulator (PMID 12637524)		gene	taxon:4896	20030702	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.13c	prz1		GO:0019722	PMID:12637524	IDA		P	transcriptional regulator (PMID 12637524)		gene	taxon:4896	20030702	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.13c	prz1		GO:0030528	GOC:unpublished	IDA		F	transcriptional regulator (PMID 12637524)		gene	taxon:4896	20030702	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.13c	prz1		GO:0005634	PMID:12637524	IDA		C	transcriptional regulator (PMID 12637524)		gene	taxon:4896	20030702	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.13c	prz1		GO:0005737	PMID:12637524	IDA		C	transcriptional regulator (PMID 12637524)		gene	taxon:4896	20030702	GeneDB_Spombe
+GeneDB_Spombe	SPBC1604.05	pgi1		GO:0006094	GOC:unpublished	ISS	SPTR:P12709	P	glucose-6-phosphate isomerase (predicted)		gene	taxon:4896	20030709	GeneDB_Spombe
+GeneDB_Spombe	SPBC1604.05	pgi1		GO:0006096	GOC:unpublished	ISS	SPTR:P12709	P	glucose-6-phosphate isomerase (predicted)		gene	taxon:4896	20030709	GeneDB_Spombe
+GeneDB_Spombe	SPBC1604.05	pgi1		GO:0006098	GOC:unpublished	ISS	SPTR:P12709	P	glucose-6-phosphate isomerase (predicted)		gene	taxon:4896	20030709	GeneDB_Spombe
+GeneDB_Spombe	SPBC1604.05	pgi1		GO:0004347	GOC:unpublished	ISS	SPTR:P12709	F	glucose-6-phosphate isomerase (predicted)		gene	taxon:4896	20030709	GeneDB_Spombe
+GeneDB_Spombe	SPBC1604.05	pgi1		GO:0005829	GOC:unpublished	ISS	SPTR:P12709	C	glucose-6-phosphate isomerase (predicted)		gene	taxon:4896	20030709	GeneDB_Spombe
+GeneDB_Spombe	SPAC17A5.15c			GO:0006424	GOC:unpublished	ISS	SPTR:P46655	P	glutamate-tRNA ligase (predicted)		gene	taxon:4896	20030623	GeneDB_Spombe
+GeneDB_Spombe	SPAC17A5.15c			GO:0004818	GOC:unpublished	ISS	SPTR:P46655	F	glutamate-tRNA ligase (predicted)		gene	taxon:4896	20030623	GeneDB_Spombe
+GeneDB_Spombe	SPAC17A5.15c			GO:0008372	GOC:unpublished	ND		F	glutamate-tRNA ligase (predicted)		gene	taxon:4896	20030623	GeneDB_Spombe
+GeneDB_Spombe	SPAC26F1.13c			GO:0006429	GOC:unpublished	ISS	SPTR:P26637	P	leucine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPAC26F1.13c			GO:0004823	GOC:unpublished	ISS	SPTR:P26637	F	leucine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPAC26F1.13c			GO:0005737	GOC:unpublished	ISS	SPTR:P26637	C	leucine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPBC2F12.09c	atf21		GO:0040020	PMID:8824587	IDA		P	atf creb-family transcription factor		gene	taxon:4896	20030905	GeneDB_Spombe
+GeneDB_Spombe	SPBC2F12.09c	atf21		GO:0006357	GOC:unpublished	IC	GO:0003700	P	atf creb-family transcription factor		gene	taxon:4896	20030905	GeneDB_Spombe
+GeneDB_Spombe	SPBC2F12.09c	atf21		GO:0003700	PMID:8824587	IDA		F	atf creb-family transcription factor		gene	taxon:4896	20030905	GeneDB_Spombe
+GeneDB_Spombe	SPBC2F12.09c	atf21		GO:0005634	GOC:unpublished	IC	GO:0003700	C	atf creb-family transcription factor		gene	taxon:4896	20030905	GeneDB_Spombe
+GeneDB_Spombe	SPCC1020.04c	rpb6		GO:0003899	PMID:8088549	IGI	SPTR:P20435	F	DNA-directed RNA polymerase (I, II, and III subunit)	rpo15	gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPCC1020.04c	rpb6		GO:0005736	PMID:8088549	IGI	SPTR:P20435	C	DNA-directed RNA polymerase (I, II, and III subunit)	rpo15	gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPCC1020.04c	rpb6		GO:0016591	PMID:8088549	IGI	SPTR:P20435	C	DNA-directed RNA polymerase (I, II, and III subunit)	rpo15	gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPCC1020.04c	rpb6		GO:0005666	PMID:8088549	IGI	SPTR:P20435	C	DNA-directed RNA polymerase (I, II, and III subunit)	rpo15	gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPCC1020.04c	rpb6		GO:0006354	PMID:10648612	TAS		P	DNA-directed RNA polymerase (I, II, and III subunit)	rpo15	gene	taxon:4896	20031030	GeneDB_Spombe
+GeneDB_Spombe	SPBC1271.14			GO:0006592	GOC:unpublished	ISS	SPTR:Q04728	P	amino acid N-acetyltransferase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1271.14			GO:0006526	GOC:unpublished	ISS	SPTR:Q04728	P	amino acid N-acetyltransferase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1271.14			GO:0004358	GOC:unpublished	ISS	SPTR:Q04728	F	amino acid N-acetyltransferase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1271.14			GO:0005759	GOC:unpublished	ISS	SPTR:Q04728	C	amino acid N-acetyltransferase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAPB1A10.11c			GO:0006424	GOC:unpublished	ISS	SPTR:P48525	P	glutamyl-tRNA synthetase (predicted)		gene	taxon:4896	20030623	GeneDB_Spombe
+GeneDB_Spombe	SPAPB1A10.11c			GO:0004818	GOC:unpublished	ISS	SPTR:P48525	F	glutamyl-tRNA synthetase (predicted)		gene	taxon:4896	20030623	GeneDB_Spombe
+GeneDB_Spombe	SPAPB1A10.11c			GO:0005739	GOC:unpublished	ISS	SPTR:P48525	C	glutamyl-tRNA synthetase (predicted)		gene	taxon:4896	20030623	GeneDB_Spombe
+GeneDB_Spombe	SPAC27E2.06c			GO:0006431	GOC:unpublished	ISS	SPTR:P22438	P	methionine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC27E2.06c			GO:0004825	GOC:unpublished	ISS	SPTR:P22438	F	methionine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC27E2.06c			GO:0005739	GOC:unpublished	ISS	SPTR:P22438	C	methionine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPBC17A3.04c			GO:0006431	GOC:unpublished	IC	GO:0004825	P	methionine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPBC17A3.04c			GO:0004825	GOC:unpublished	ISS	SPTR:P00958	F	methionine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPBC17A3.04c			GO:0005737	GOC:unpublished	ISS	SPTR:P00958	C	methionine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPBC3E7.02c	hsp16		GO:0003773	PMID:11452028	TAS		F	heat shock protein		gene	taxon:4896	20040202	GeneDB_Spombe
+GeneDB_Spombe	SPAC3G9.13c			GO:0006436	GOC:unpublished	ISS	SPTR:P04803	P	tryptophan-tRNA ligase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC3G9.13c			GO:0004830	GOC:unpublished	ISS	SPTR:P04803	F	tryptophan-tRNA ligase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC3G9.13c			GO:0005739	GOC:unpublished	ISS	SPTR:P04803	C	tryptophan-tRNA ligase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC3A12.18	zwf1		GO:0009051	GOC:unpublished	IC	GO:0004345	P	glucose-6-phosphate 1-dehydrogenase (predicted)	SPAC9.01	gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPAC3A12.18	zwf1		GO:0006010	GOC:unpublished	IC	GO:0004345	P	glucose-6-phosphate 1-dehydrogenase (predicted)	SPAC9.01	gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPAC3A12.18	zwf1		GO:0004345	GOC:unpublished	ISS	SPTR:P11412	F	glucose-6-phosphate 1-dehydrogenase (predicted)	SPAC9.01	gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPAC3A12.18	zwf1		GO:0005737	GOC:unpublished	ISS	SPTR:P11412	C	glucose-6-phosphate 1-dehydrogenase (predicted)	SPAC9.01	gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPBP19A11.01			GO:0006546	GOC:unpublished	ISS	Pfam:PF01597	P	glycine cleavage system h protein (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBP19A11.01			GO:0006544	GOC:unpublished	ISS	Pfam:PF01597	P	glycine cleavage system h protein (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBP19A11.01			GO:0005960	GOC:unpublished	ISS	Pfam:PF01597	C	glycine cleavage system h protein (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBP19A11.01			GO:0005739	GOC:unpublished	ISS	Pfam:PF01597	C	glycine cleavage system h protein (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC3H7.07c			GO:0006564	GOC:unpublished	ISS	SPTR:P42941	P	phosphoserine phosphatase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC3H7.07c			GO:0004647	GOC:unpublished	ISS	SPTR:P42941	F	phosphoserine phosphatase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC4C3.03			GO:0009088	GOC:unpublished	ISS	SPTR:P17423	P	homoserine kinase (predicted)		gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPBC4C3.03			GO:0006555	GOC:unpublished	ISS	SPTR:P17423	P	homoserine kinase (predicted)		gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPBC4C3.03			GO:0009091	GOC:unpublished	ISS	SPTR:P17423	P	homoserine kinase (predicted)		gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPBC4C3.03			GO:0004413	GOC:unpublished	ISS	SPTR:P17423	F	homoserine kinase (predicted)		gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPBC4C3.03			GO:0008372	GOC:unpublished	ND		C	homoserine kinase (predicted)		gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPCC330.12c	sdh3		GO:0006099	GOC:unpublished	ISS	SPTR:P33421	P	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPCC330.12c	sdh3		GO:0006121	GOC:unpublished	ISS	SPTR:P33421	P	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPCC330.12c	sdh3		GO:0006105	GOC:unpublished	IC	GO:0008177	P	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPCC330.12c	sdh3		GO:0008177	GOC:unpublished	ISS	SPTR:P33421	F	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPCC330.12c	sdh3		GO:0005749	GOC:unpublished	ISS	SPTR:P33421	C	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C11.09			GO:0006419	GOC:unpublished	ISS	SPTR:P40825	P	alanine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C11.09			GO:0004813	GOC:unpublished	ISS	SPTR:P40825	F	alanine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C11.09			GO:0005737	GOC:unpublished	ISS	SPTR:P40825	C	alanine-tRNA ligase (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPBC215.08c	arg4		GO:0006526	GOC:unpublished	ISS	SPTR:P03965	P	carbamoyl-phosphate synthase		gene	taxon:4896	20030603	GeneDB_Spombe
+GeneDB_Spombe	SPBC215.08c	arg4		GO:0006538	GOC:unpublished	IC	GO:0004088	P	carbamoyl-phosphate synthase		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC215.08c	arg4		GO:0004088	GOC:unpublished	ISS	SPTR:P03965	F	carbamoyl-phosphate synthase		gene	taxon:4896	20030603	GeneDB_Spombe
+GeneDB_Spombe	SPBC215.08c	arg4		GO:0005829	GOC:unpublished	ISS	SPTR:P03965	C	carbamoyl-phosphate synthase		gene	taxon:4896	20030603	GeneDB_Spombe
+GeneDB_Spombe	SPAP27G11.15	slx1		GO:0016894	PMID:14528010	IDA		F	stucture-specific endonuclease (catalytic subunit) (PMID 14528010)		gene	taxon:4896	20031007	GeneDB_Spombe
+GeneDB_Spombe	SPAP27G11.15	slx1		GO:0006295	PMID:14528010	IDA		P	stucture-specific endonuclease (catalytic subunit) (PMID 14528010)		gene	taxon:4896	20031007	GeneDB_Spombe
+GeneDB_Spombe	SPAP27G11.15	slx1		GO:0045458	PMID:14528010	IDA		P	stucture-specific endonuclease (catalytic subunit) (PMID 14528010)		gene	taxon:4896	20031020	GeneDB_Spombe
+GeneDB_Spombe	SPAP27G11.15	slx1		GO:0043007	PMID:14528010	IDA		P	stucture-specific endonuclease (catalytic subunit) (PMID 14528010)		gene	taxon:4896	20031020	GeneDB_Spombe
+GeneDB_Spombe	SPCC1235.04c			GO:0046444	GOC:unpublished	ISS	SPTR:P38913	P	FMN adenylyltransferase activity (predicted)		gene	taxon:4896	20031015	GeneDB_Spombe
+GeneDB_Spombe	SPCC1235.04c			GO:0005739	PMID:14555654	ISS	SPTR:P38913	C	FMN adenylyltransferase activity (predicted)		gene	taxon:4896	20031015	GeneDB_Spombe
+GeneDB_Spombe	SPCC1235.04c			GO:0006747	GOC:unpublished	ISS	SPTR:P38913	P	FMN adenylyltransferase activity (predicted)		gene	taxon:4896	20031015	GeneDB_Spombe
+GeneDB_Spombe	SPCC1235.04c			GO:0003919	GOC:unpublished	ISS	SPTR:P38913	F	FMN adenylyltransferase activity (predicted)		gene	taxon:4896	20031015	GeneDB_Spombe
+GeneDB_Spombe	SPCC737.06c			GO:0006750	GOC:unpublished	IC	GO:0004357	P	aldo/keto reductase		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC737.06c			GO:0004033	GOC:unpublished	IC	PFAM:PF00248	F	aldo/keto reductase		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC737.06c			GO:0008372	GOC:unpublished	ND		C	aldo/keto reductase		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC191.09c	gst1		GO:0006979	PMID:12063243	TAS		P	glutathione S-transferase (PMID 12063243)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC191.09c	gst1		GO:0042493	PMID:12063243	TAS		P	glutathione S-transferase (PMID 12063243)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC191.09c	gst1		GO:0004364	PMID:12063243	IDA		F	glutathione S-transferase (PMID 12063243)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC191.09c	gst1		GO:0005737	PMID:12063243	IDA		C	glutathione S-transferase (PMID 12063243)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC191.09c	gst1		GO:0005634	PMID:12063243	IDA		C	glutathione S-transferase (PMID 12063243)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPAC6F12.03c	fsv1		GO:0006896	PMID:14575697	IDA		P	SNARE (PMID 14575697)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPAC6F12.03c	fsv1		GO:0005484	PMID:14575697	TAS		F	SNARE (PMID 14575697)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPAC6F12.03c	fsv1	NOT	GO:0030435	PMID:14575697	IDA		P	SNARE (PMID 14575697)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPAC6F12.03c	fsv1	NOT	GO:0006897	PMID:14575697	IDA		P	SNARE (PMID 14575697)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPAC6F12.03c	fsv1	NOT	GO:0042144	PMID:14575697	IDA		P	SNARE (PMID 14575697)		gene	taxon:4896	20031027	GeneDB_Spombe
+GeneDB_Spombe	SPCC16C4.10			GO:0009051	GOC:unpublished	IC	GO:0017057	P	6-phosphogluconolactonase (predicted)		gene	taxon:4896	20030704	GeneDB_Spombe
+GeneDB_Spombe	SPCC16C4.10			GO:0017057	GOC:unpublished	ISS	SPTR:O95336	F	6-phosphogluconolactonase (predicted)		gene	taxon:4896	20030704	GeneDB_Spombe
+GeneDB_Spombe	SPCC16C4.10			GO:0005737	GOC:unpublished	IC	GO:0004616	C	6-phosphogluconolactonase (predicted)		gene	taxon:4896	20030704	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.12c			GO:0006544	GOC:unpublished	ISS	SPTR:P37291	P	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.12c			GO:0006563	GOC:unpublished	ISS	SPTR:P37291	P	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.12c			GO:0006730	GOC:unpublished	ISS	SPTR:P37291	P	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.12c			GO:0004372	GOC:unpublished	ISS	SPTR:P37291	F	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.12c			GO:0005737	GOC:unpublished	ISS	SPTR:P37291	C	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC4A8.08c			GO:0006438	GOC:unpublished	ISS	SPTR:P07806	P	valine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPAC4A8.08c			GO:0004832	GOC:unpublished	ISS	SPTR:P07806	F	valine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPAC4A8.08c			GO:0008372	GOC:unpublished	ND		C	valine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPCC777.09c	arg1		GO:0006592	GOC:unpublished	ISS	SPTR:P18544	P	acetylornithine aminotransferase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC777.09c	arg1		GO:0042450	GOC:unpublished	IC	GO:0003992	P	acetylornithine aminotransferase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC777.09c	arg1		GO:0006538	GOC:unpublished	IC	GO:0003992	P	acetylornithine aminotransferase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC777.09c	arg1		GO:0003992	GOC:unpublished	ISS	SPTR:P18544	F	acetylornithine aminotransferase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC777.09c	arg1		GO:0005759	GOC:unpublished	ISS	SPTR:P18544	C	acetylornithine aminotransferase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G9.09c	arg11		GO:0006526	PMID:1313366	IGI	SPTR:P31318	P	N-acetyl-gamma-glutamyl-phosphate reductase (PMID 1313366)		gene	taxon:4896	20030613	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G9.09c	arg11		GO:0006592	GOC:unpublished	IC		P	N-acetyl-gamma-glutamyl-phosphate reductase (PMID 1313366)		gene	taxon:4896	20030613	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G9.09c	arg11		GO:0003942	PMID:1313366	IGI	SPTR:P31318	F	N-acetyl-gamma-glutamyl-phosphate reductase (PMID 1313366)		gene	taxon:4896	20030613	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G9.09c	arg11		GO:0003991	PMID:1313366	IGI	SPTR:P31318	F	N-acetyl-gamma-glutamyl-phosphate reductase (PMID 1313366)		gene	taxon:4896	20030613	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G9.09c	arg11		GO:0005739	PMID:1313366	IGI	SPTR:P31318	C	N-acetyl-gamma-glutamyl-phosphate reductase (PMID 1313366)		gene	taxon:4896	20030613	GeneDB_Spombe
+GeneDB_Spombe	SPCC736.03c			GO:0006432	GOC:unpublished	IC	GO:0004826	P	phenylalanyl-tRNA synthetase		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPCC736.03c			GO:0004826	GOC:unpublished	ISS	SPTR:P08425	F	phenylalanyl-tRNA synthetase		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPCC736.03c			GO:0005739	GOC:unpublished	ISS	SPTR:P08425	C	phenylalanyl-tRNA synthetase		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPBC28F2.12	rpb1		GO:0006366	GOC:unpublished	IC	GO:0003677	P	DNA-directed RNA polymerase (II subunit) (large subunit) (PMID 2011520)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBC28F2.12	rpb1		GO:0003899	GOC:unpublished	IC	GO:0003677	F	DNA-directed RNA polymerase (II subunit) (large subunit) (PMID 2011520)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBC28F2.12	rpb1		GO:0003677	PMID:9325316	IDA		F	DNA-directed RNA polymerase (II subunit) (large subunit) (PMID 2011520)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBC28F2.12	rpb1		GO:0005665	GOC:unpublished	IC	GO:0003677	C	DNA-directed RNA polymerase (II subunit) (large subunit) (PMID 2011520)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBC25H2.02	ths1		GO:0006435	GOC:unpublished	ISS	SPTR:P04801	P	threonine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC25H2.02	ths1		GO:0004829	GOC:unpublished	ISS	SPTR:P04801	F	threonine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC25H2.02	ths1		GO:0005737	GOC:unpublished	ISS	SPTR:P04801	C	threonine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC2G2.12			GO:0006427	GOC:unpublished	ISS	SPTR:P07263	P	histidine-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC2G2.12			GO:0004821	GOC:unpublished	ISS	SPTR:P07263	F	histidine-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC2G2.12			GO:0005737	GOC:unpublished	ISS	SPTR:P07263	C	histidine-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC2G2.12			GO:0005739	GOC:unpublished	ISS	SPTR:P07263	C	histidine-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC19F5.04			GO:0009088	GOC:unpublished	ISS	SPTR:P10869	P	aspartate kinase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC19F5.04			GO:0006555	GOC:unpublished	ISS	SPTR:P10869	P	aspartate kinase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC19F5.04			GO:0004072	GOC:unpublished	ISS	SPTR:P10869	F	aspartate kinase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC19F5.04			GO:0008372	GOC:unpublished	ISS	SPTR:P10869	C	aspartate kinase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.14	plh1		GO:0046027	PMID:12963726	IDA		F	phospholipid-diacylglycerol acyltransferase (PMID 12963726)		gene	taxon:4896	20030911	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.14	plh1		GO:0019432	PMID: 12963726	IDA		P	phospholipid-diacylglycerol acyltransferase (PMID 12963726)		gene	taxon:4896	20030911	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.14	plh1		GO:0046339	PMID:12963726	IC	GO:0019432	P	phospholipid-diacylglycerol acyltransferase (PMID 12963726)		gene	taxon:4896	20030911	GeneDB_Spombe
+GeneDB_Spombe	SPBC776.14	plh1		GO:0019915	PMID:12963726	IC	GO:0019432	P	phospholipid-diacylglycerol acyltransferase (PMID 12963726)		gene	taxon:4896	20030911	GeneDB_Spombe
+GeneDB_Spombe	SPBC17G9.03c			GO:0006430	GOC:unpublished	ISS	SPTR:P15180	P	lysine-tRNA ligase		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPBC17G9.03c			GO:0004824	GOC:unpublished	ISS	SPTR:P15180	F	lysine-tRNA ligase		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPBC17G9.03c			GO:0005737	GOC:unpublished	ISS	SPTR:P15180	C	lysine-tRNA ligase		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.09			GO:0006429	GOC:unpublished	ISS	SPTR:P11325	P	leucine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.09			GO:0004823	GOC:unpublished	ISS	SPTR:P11325	F	leucine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPAC4G8.09			GO:0005739	GOC:unpublished	ISS	SPTR:P11325	C	leucine-tRNA ligase (predicted)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPCC18B5.08c			GO:0006428	GOC:unpublished	ISS	SPTR:P48526	P	isoleucine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC18B5.08c			GO:0004822	GOC:unpublished	ISS	SPTR:P48526	F	isoleucine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC18B5.08c			GO:0005739	GOC:unpublished	ISS	SPTR:P48526	C	isoleucine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPAC3C7.13c			GO:0009051	GOC:unpublished	IC	GO:0004345	P	glucose-6-phosphate 1-dehydrogenase (predicted)		gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPAC3C7.13c			GO:0006010	GOC:unpublished	IC	GO:0004345	P	glucose-6-phosphate 1-dehydrogenase (predicted)		gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPAC3C7.13c			GO:0004345	GOC:unpublished	ISS	SPTR:P11412	F	glucose-6-phosphate 1-dehydrogenase (predicted)		gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPAC3C7.13c			GO:0005737	GOC:unpublished	ISS	SPTR:P11412	C	glucose-6-phosphate 1-dehydrogenase (predicted)		gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.12c	rpb10		GO:0006360	GOC:unpublished	IC	GO:0003899	P	DNA-directed RNA polymerase (I, II, and III subunit)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.12c	rpb10		GO:0006366	GOC:unpublished	IC	GO:0003899	P	DNA-directed RNA polymerase (I, II, and III subunit)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.12c	rpb10		GO:0006383	GOC:unpublished	IC	GO:0003899	P	DNA-directed RNA polymerase (I, II, and III subunit)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.12c	rpb10		GO:0003899	PMID:9157844	IGI	SWALL:P22139	F	DNA-directed RNA polymerase (I, II, and III subunit)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.12c	rpb10		GO:0005736	GOC:unpublished	IC	GO:0003899	C	DNA-directed RNA polymerase (I, II, and III subunit)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.12c	rpb10		GO:0016591	GOC:unpublished	IC	GO:0003899	C	DNA-directed RNA polymerase (I, II, and III subunit)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.12c	rpb10		GO:0005666	GOC:unpublished	IC	GO:0003899	C	DNA-directed RNA polymerase (I, II, and III subunit)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPBC14C8.12	rpb8		GO:0006360	PMID:10335407	IDA		P	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 10335407)		gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPBC14C8.12	rpb8		GO:0006366	PMID:10335407	IDA		P	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 10335407)		gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPBC14C8.12	rpb8		GO:0006383	PMID:10335407	IDA		P	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 10335407)		gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPBC14C8.12	rpb8		GO:0003899	PMID:10335407	IDA		F	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 10335407)		gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPBC14C8.12	rpb8		GO:0005736	PMID:10335407	IDA		C	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 10335407)		gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPBC14C8.12	rpb8		GO:0016591	PMID:10335407	IDA		C	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 10335407)		gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPBC14C8.12	rpb8		GO:0005666	PMID:10335407	IDA		C	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 10335407)		gene	taxon:4896	20030801	GeneDB_Spombe
+GeneDB_Spombe	SPCC613.09			GO:0000214	GOC:unpublished	ISS	SPTR:Q02825	C	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPCC613.09			GO:0000213	GOC:unpublished	ISS	SPTR:Q02825	F	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPCC613.09			GO:0005637	GOC:unpublished	ISS	SPTR:Q02825	C	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPCC613.09			GO:0006388	GOC:unpublished	ISS	SPTR:Q02825	P	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPAC2F7.13c			GO:0006436	GOC:unpublished	ISS	SPTR:Q12109	P	tryptophan-tRNA ligase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC2F7.13c			GO:0004830	GOC:unpublished	ISS	SPTR:Q12109	F	tryptophan-tRNA ligase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC2F7.13c			GO:0005737	GOC:unpublished	ISS	SPTR:Q12109	C	tryptophan-tRNA ligase (predicted)		gene	taxon:4896	20030625	GeneDB_Spombe
+GeneDB_Spombe	SPAC22F3.03c	rdh54		GO:0000724	PMID: 14551247	IDA		P	DEAD/DEAH box helicase (PMID 14551247)		gene	taxon:4896	20031013	GeneDB_Spombe
+GeneDB_Spombe	SPAC22F3.03c	rdh54		GO:0007131	PMID: 14551247	IDA		P	DEAD/DEAH box helicase (PMID 14551247)		gene	taxon:4896	20031013	GeneDB_Spombe
+GeneDB_Spombe	SPAC22F3.03c	rdh54		GO:0004003	GOC:unpublished	ISS	SPTR:P38086	F	DEAD/DEAH box helicase (PMID 14551247)		gene	taxon:4896	20031013	GeneDB_Spombe
+GeneDB_Spombe	SPAC22F3.03c	rdh54		GO:0005634	GO:0007131	IC	GO:0004003	C	DEAD/DEAH box helicase (PMID 14551247)		gene	taxon:4896	20031013	GeneDB_Spombe
+GeneDB_Spombe	SPAC22F3.10c	gcs1		GO:0006750	GOC:unpublished	IC	GO:0004357	P	glutamate--cysteine ligase (PMID 8619315)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22F3.10c	gcs1		GO:0046686	GOC:unpublished	ISS	SPTR:P32477	P	glutamate--cysteine ligase (PMID 8619315)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22F3.10c	gcs1		GO:0004357	PMID:8619315	IGI	SPTR:Q09768	F	glutamate--cysteine ligase (PMID 8619315)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22F3.10c	gcs1		GO:0005622	GOC:unpublished	ISS	SPTR:P32477	C	glutamate--cysteine ligase (PMID 8619315)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC23A1.14c			GO:0006534	GOC:unpublished	ISS	SPTR:P38716	P	cystathionine gamma-synthase activity (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC23A1.14c			GO:0019281	GOC:unpublished	ISS	SPTR:P38716	P	cystathionine gamma-synthase activity (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC23A1.14c			GO:0003962	GOC:unpublished	ISS	SPTR:P38716	F	cystathionine gamma-synthase activity (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC23A1.14c			GO:0008372	GOC:unpublished	ISS	SPTR:P38716	C	cystathionine gamma-synthase activity (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBC16G5.02c			GO:0006014	GOC:unpublished	ISS	SPTR:P25332	P	ribokinase (predicted)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBC16G5.02c			GO:0004747	GOC:unpublished	ISS	SPTR:P25332	F	ribokinase (predicted)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBC16G5.02c			GO:0008372	GOC:unpublished	ND		C	ribokinase (predicted)		gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPCC794.01c			GO:0009051	GOC:unpublished	IC	GO:0004345	P	glucose-6-phosphate 1-dehydrogenase (predicted)		gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPCC794.01c			GO:0006010	GOC:unpublished	IC	GO:0004345	P	glucose-6-phosphate 1-dehydrogenase (predicted)		gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPCC794.01c			GO:0004345	GOC:unpublished	ISS	SPTR:P11412	F	glucose-6-phosphate 1-dehydrogenase (predicted)		gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPCC794.01c			GO:0005737	GOC:unpublished	ISS	SPTR:P11412	C	glucose-6-phosphate 1-dehydrogenase (predicted)		gene	taxon:4896	20030708	GeneDB_Spombe
+GeneDB_Spombe	SPCC1672.05c			GO:0006437	GOC:unpublished	IC	GO:0004831	P	tyrosine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC1672.05c			GO:0004831	GOC:unpublished	ISS	SPTR:P36421	F	tyrosine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC1672.05c			GO:0005737	GOC:unpublished	ISS	SPTR:P36421	C	tyrosine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC1672.05c			GO:0005634	GOC:unpublished	ISS	SPTR:P36421	C	tyrosine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPAC29A4.15			GO:0006434	GOC:unpublished	ISS	SPTR:P07284	P	serine-tRNA ligase		gene	taxon:4896	20040205	GeneDB_Spombe
+GeneDB_Spombe	SPAC29A4.15			GO:0004828	GOC:unpublished	ISS	SPTR:P07284	F	serine-tRNA ligase		gene	taxon:4896	20040205	GeneDB_Spombe
+GeneDB_Spombe	SPAC29A4.15			GO:0005737	GOC:unpublished	ISS	SPTR:P07284	C	serine-tRNA ligase		gene	taxon:4896	20040205	GeneDB_Spombe
+GeneDB_Spombe	SPBC3H7.03c			GO:0006103	GOC:unpublished	ISS	SPTR:P20967	P	2-oxoglutarate dehydrogenase (lipoamide) (e1 component of oxoglutarate dehydrogenase complex) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPBC3H7.03c			GO:0006099	GOC:unpublished	ISS	SPTR:P20967	P	2-oxoglutarate dehydrogenase (lipoamide) (e1 component of oxoglutarate dehydrogenase complex) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPBC3H7.03c			GO:0004591	GOC:unpublished	ISS	SPTR:P20967	F	2-oxoglutarate dehydrogenase (lipoamide) (e1 component of oxoglutarate dehydrogenase complex) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPBC3H7.03c			GO:0009353	GOC:unpublished	ISS	SPTR:P20967	C	2-oxoglutarate dehydrogenase (lipoamide) (e1 component of oxoglutarate dehydrogenase complex) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC959.10			GO:0000214	GOC:unpublished	ISS	SPTR:Q04675	C	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPAC959.10			GO:0000213	GOC:unpublished	ISS	SPTR:Q04675	F	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPAC959.10			GO:0005637	GOC:unpublished	ISS	SPTR:Q04675	C	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPAC959.10			GO:0006388	GOC:unpublished	ISS	SPTR:Q04675	P	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPCC320.14			GO:0006567	GOC:unpublished	ISS	SPTR:P36007	P	threo-3-hydroxyaspartate ammonia-lyase (predicted)	SPCC330.15c	gene	taxon:4896	20030904	GeneDB_Spombe
+GeneDB_Spombe	SPCC320.14			GO:0030848	GOC:unpublished	ISS	SPTR:P36007	F	threo-3-hydroxyaspartate ammonia-lyase (predicted)	SPCC330.15c	gene	taxon:4896	20030904	GeneDB_Spombe
+GeneDB_Spombe	SPCC320.14			GO:0008372	GOC:unpublished	ND		C	threo-3-hydroxyaspartate ammonia-lyase (predicted)	SPCC330.15c	gene	taxon:4896	20030904	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.05c			GO:0009052	GOC:unpublished	IC	SPTR:P46969	P	ribulose phosphate 3-epimerase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.05c			GO:0004750	GOC:unpublished	ISS	SPTR:P46969	F	ribulose phosphate 3-epimerase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.05c			GO:0005829	GOC:unpublished	ISS	SPTR:P46969	C	ribulose phosphate 3-epimerase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPAC343.05	vma1		GO:0006897	PMID:14735354	TAS		P	V-type ATPase		gene	taxon:4896	20040126	GeneDB_Spombe
+GeneDB_Spombe	SPAC343.05	vma1		GO:0007035	PMID:14735354	IDA		P	V-type ATPase		gene	taxon:4896	20040126	GeneDB_Spombe
+GeneDB_Spombe	SPAC23G3.01	rpb2		GO:0006366	PMID:8441660	IGI	SWALL:P08518	P	DNA-directed RNA polymerase (II subunit)	SPAC521.06	gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPAC23G3.01	rpb2		GO:0003899	PMID:8441660	IGI	SWALL:P08518	F	DNA-directed RNA polymerase (II subunit)	SPAC521.06	gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPAC23G3.01	rpb2		GO:0003677	PMID:9325316	IDA		F	DNA-directed RNA polymerase (II subunit)	SPAC521.06	gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPAC23G3.01	rpb2		GO:0003723	PMID:9988759	IDA		F	DNA-directed RNA polymerase (II subunit)	SPAC521.06	gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPAC23G3.01	rpb2		GO:0005665	PMID:9325316	IDA		C	DNA-directed RNA polymerase (II subunit)	SPAC521.06	gene	taxon:4896	20030711	GeneDB_Spombe
+GeneDB_Spombe	SPBP23A10.16			GO:0006121	GOC:unpublished	ISS	SPTR:P37298	P	succinate dehydrogenase (ubiquinone) (cytochrome b small subunit) (predicted)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPBP23A10.16			GO:0006612	GOC:unpublished	ISS	SPTR:Q08749	P	succinate dehydrogenase (ubiquinone) (cytochrome b small subunit) (predicted)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPBP23A10.16			GO:0006626	GOC:unpublished	ISS	SPTR:Q08749	P	succinate dehydrogenase (ubiquinone) (cytochrome b small subunit) (predicted)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPBP23A10.16			GO:0005515	GOC:unpublished	IC	PFAM:PF05328	F	succinate dehydrogenase (ubiquinone) (cytochrome b small subunit) (predicted)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPBP23A10.16			GO:0005743	GOC:unpublished	IC	PFAM:PF05328	C	succinate dehydrogenase (ubiquinone) (cytochrome b small subunit) (predicted)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPCC18.08			GO:0006430	GOC:unpublished	ISS	SPTR:P32048	P	lysine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC18.08			GO:0004824	GOC:unpublished	ISS	SPTR:P32048	F	lysine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC18.08			GO:0005739	GOC:unpublished	ISS	SPTR:P32048	C	lysine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPAC23A1.12c			GO:0006432	GOC:unpublished	ISS	SPTR:P15624	P	phenylalanine-tRNA ligase (beta subunit) (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC23A1.12c			GO:0004826	GOC:unpublished	ISS	SPTR:P15624	F	phenylalanine-tRNA ligase (beta subunit) (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC23A1.12c			GO:0005737	GOC:unpublished	ISS	SPTR:P15624	C	phenylalanine-tRNA ligase (beta subunit) (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC23A1.12c			GO:0009328	GOC:unpublished	IC	SPTR:O42870	C	phenylalanine-tRNA ligase (beta subunit) (predicted)		gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPBC2G5.05			GO:0009052	GOC:unpublished	IC	GO:0004802	P	transketolase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC2G5.05			GO:0004802	GOC:unpublished	ISS	P23254	F	transketolase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC2G5.05			GO:0005737	GOC:unpublished	ISS	P23254	C	transketolase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPAC688.06c	slx4		GO:0006295	PMID:14528010	IDA		P	stucture-specific endonuclease (contributes_to) (PMID 14528010)		gene	taxon:4896	20031007	GeneDB_Spombe
+GeneDB_Spombe	SPAC3F10.03			GO:0006426	GOC:unpublished	ISS	SPTR:P38088	P	glycine tRNA-ligase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC3F10.03			GO:0004820	GOC:unpublished	ISS	SPTR:P38088	F	glycine tRNA-ligase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC3F10.03			GO:0005737	GOC:unpublished	ISS	SPTR:P38088	C	glycine tRNA-ligase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC3F10.03			GO:0005739	GOC:unpublished	ISS	SPTR:P38088	C	glycine tRNA-ligase		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC550.10	meu8		GO:0019285	GOC:unpublished	ISS	SPTR:O22477	P	betaine aldehyde dehydrogenase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC550.10	meu8		GO:0007126	PMID:11376151	IEP		P	betaine aldehyde dehydrogenase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC550.10	meu8		GO:0008802	GOC:unpublished	ISS	SPTR:O22477	F	betaine aldehyde dehydrogenase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC550.10	meu8		GO:0005759	GO:0007126	IC	GO:0008802	C	betaine aldehyde dehydrogenase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC16E8.17c			GO:0006104	GOC:unpublished	ISS	SPTR:P53598	P	succinate-CoA ligase (alpha subunit) (predicted)		gene	taxon:4896	20030717	GeneDB_Spombe
+GeneDB_Spombe	SPAC16E8.17c			GO:0006099	GOC:unpublished	ISS	SPTR:P53598	P	succinate-CoA ligase (alpha subunit) (predicted)		gene	taxon:4896	20030717	GeneDB_Spombe
+GeneDB_Spombe	SPAC16E8.17c			GO:0004774	GOC:unpublished	IC	SPTR:P53598	F	succinate-CoA ligase (alpha subunit) (predicted)		gene	taxon:4896	20030717	GeneDB_Spombe
+GeneDB_Spombe	SPAC16E8.17c			GO:0005759	GOC:unpublished	IC	GO:0006099	C	succinate-CoA ligase (alpha subunit) (predicted)		gene	taxon:4896	20030717	GeneDB_Spombe
+GeneDB_Spombe	SPAC57A10.12c	ura3		GO:0019856	GOC:unpublished	ISS	SPTR:P03965	P	dihydroorotate dehydrogenase		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC57A10.12c	ura3		GO:0004152	PMID:1409592	IDA		F	dihydroorotate dehydrogenase		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC57A10.12c	ura3		GO:0005739	PMID:1409592	IDA		C	dihydroorotate dehydrogenase		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC13G6.06c			GO:0006544	GOC:unpublished	ISS	SPTR:P49095	P	glycine dehydrogenase (decarboxylating) (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC13G6.06c			GO:0004375	GOC:unpublished	ISS	SPTR:P49095	F	glycine dehydrogenase (decarboxylating) (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC13G6.06c			GO:0005960	GOC:unpublished	ISS	SPTR:P49095	C	glycine dehydrogenase (decarboxylating) (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC13G6.06c			GO:0005739	GOC:unpublished	ISS	SPTR:P49095 date=20030610	C	glycine dehydrogenase (decarboxylating) (predicted)		gene	taxon:4896	20040205	GeneDB_Spombe
+GeneDB_Spombe	SPBC1709.02c			GO:0006438	GOC:unpublished	ISS	SPTR:P07806	P	valine-tRNA ligase (predicted)	SPBC1734.18c	gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPBC1709.02c			GO:0004832	GOC:unpublished	ISS	SPTR:P07806	F	valine-tRNA ligase (predicted)	SPBC1734.18c	gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPBC1709.02c			GO:0008372	GOC:unpublished	ND		C	valine-tRNA ligase (predicted)	SPBC1734.18c	gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPCC1442.10c	rpb3		GO:0006366	GOC:unpublished	IC	PMID:8367291	P	DNA-directed RNA polymerase (II subunit) (subunit 3) (PMID 8367291)		gene	taxon:4896	20030721	GeneDB_Spombe
+GeneDB_Spombe	SPCC1442.10c	rpb3		GO:0003899	PMID:8367291	IDA		F	DNA-directed RNA polymerase (II subunit) (subunit 3) (PMID 8367291)		gene	taxon:4896	20030721	GeneDB_Spombe
+GeneDB_Spombe	SPCC1442.10c	rpb3		GO:0003677	PMID:9325316	IDA		F	DNA-directed RNA polymerase (II subunit) (subunit 3) (PMID 8367291)		gene	taxon:4896	20030721	GeneDB_Spombe
+GeneDB_Spombe	SPCC1442.10c	rpb3		GO:0005665	PMID:11453250	IDA	SPTR:P37382	C	DNA-directed RNA polymerase (II subunit) (subunit 3) (PMID 8367291)		gene	taxon:4896	20030721	GeneDB_Spombe
+GeneDB_Spombe	SPCC622.16c	epe1		GO:0006325	PMID:12773576	IGI	SWALL:P40381	P	zinc finger protein		gene	taxon:4896	20030604	GeneDB_Spombe
+GeneDB_Spombe	SPAC1039.08			GO:0006535	GOC:unpublished	ISS	SPTR:P05796	P	serine acetyltransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC1039.08			GO:0009001	GOC:unpublished	ISS	SPTR:P05796	F	serine acetyltransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC1039.08			GO:0008372	GOC:unpublished	ND		C	serine acetyltransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC140.01	sdh2		GO:0006099	GOC:unpublished	ISS	SPTR:P21801	P	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC140.01	sdh2		GO:0006121	GOC:unpublished	ISS	SPTR:P21801	P	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC140.01	sdh2		GO:0008177	GOC:unpublished	ISS	SPTR:P21801	F	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC140.01	sdh2		GO:0005749	GOC:unpublished	ISS	SPTR:P21801	C	succinate dehydrogenase (ubiquinone)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC25B8.03			GO:0006656	GOC:unpublished	ISS	SPTR:P39006	P	phosphatidylserine decarboxylase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC25B8.03			GO:0004609	GOC:unpublished	ISS	SPTR:P39006	F	phosphatidylserine decarboxylase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC25B8.03			GO:0005743	GOC:unpublished	ISS	SPTR:P39006	C	phosphatidylserine decarboxylase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC1183.06	ung1		GO:0019104	PMID:12810074	IDA		F	uracil DNA N-glycosylase (PMID 12810074)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPBC26H8.03	cho2		GO:0006656	PMID:9755189	TAS		P	phosphatidylethanolamine N-methyltransferase (PMID 9755189)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBC26H8.03	cho2		GO:0004608	PMID:9755189	IGI	SPTR:P05374	F	phosphatidylethanolamine N-methyltransferase (PMID 9755189)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBC26H8.03	cho2		GO:0005789	GOC:unpublished	ISS	SPTR:P05374	C	phosphatidylethanolamine N-methyltransferase (PMID 9755189)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPCC1620.08			GO:0006104	GOC:unpublished	ISS	SPTR:P53312	P	succinate-CoA ligase (beta subunit) (predicted)		gene	taxon:4896	20030717	GeneDB_Spombe
+GeneDB_Spombe	SPCC1620.08			GO:0006099	GOC:unpublished	ISS	SPTR:P53312	P	succinate-CoA ligase (beta subunit) (predicted)		gene	taxon:4896	20030717	GeneDB_Spombe
+GeneDB_Spombe	SPCC1620.08			GO:0004774	GOC:unpublished	IC	SPTR:P53312	F	succinate-CoA ligase (beta subunit) (predicted)		gene	taxon:4896	20030717	GeneDB_Spombe
+GeneDB_Spombe	SPCC1620.08			GO:0005759	GOC:unpublished	IC	GO:0006099	C	succinate-CoA ligase (beta subunit) (predicted)		gene	taxon:4896	20030717	GeneDB_Spombe
+GeneDB_Spombe	SPCC1827.06c			GO:0009088	GOC:unpublished	ISS	SPTR:P13663	P	aspartate semialdehyde dehydrogenase		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC1827.06c			GO:0006555	GOC:unpublished	ISS	SPTR:P13663	P	aspartate semialdehyde dehydrogenase		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC1827.06c			GO:0004073	GOC:unpublished	ISS	SPTR:P13663	F	aspartate semialdehyde dehydrogenase		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC1827.06c			GO:0008372	GOC:unpublished	ND		C	aspartate semialdehyde dehydrogenase		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC16.03c	ura2		GO:0006221	GOC:unpublished	ISS	SPTR:P20051	P	dihydroorotase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC16.03c	ura2		GO:0004151	GOC:unpublished	ISS	SPTR:P20051	F	dihydroorotase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC16.03c	ura2		GO:0008372	GOC:unpublished	ND		C	dihydroorotase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C7.07c			GO:0000214	GOC:unpublished	ISS	SPTR:P39707	C	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C7.07c			GO:0000213	GOC:unpublished	ISS	SPTR:P39707	F	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C7.07c			GO:0005637	GOC:unpublished	ISS	SPTR:P39707	C	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C7.07c			GO:0006388	GOC:unpublished	ISS	SPTR:P39707	P	tRNA-splicing endonuclease (subunit) (predicted)		gene	taxon:4896	20030913	GeneDB_Spombe
+GeneDB_Spombe	SPBC32F12.10			GO:0006008	GOC:unpublished	ISS	SPTR:P33401	P	phosphoglucomutase (predicted)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPBC32F12.10			GO:0006010	GOC:unpublished	ISS	SPTR:P33401	P	phosphoglucomutase (predicted)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPBC32F12.10			GO:0004614	GOC:unpublished	ISS	SPTR:P33401	F	phosphoglucomutase (predicted)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPBC32F12.10			GO:0005829	GOC:unpublished	ISS	SPTR:P33401	C	phosphoglucomutase (predicted)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPCC1020.06c	tal1		GO:0009052	GOC:unpublished	IC	GO:0004801	P	transaldolase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPCC1020.06c	tal1		GO:0004801	GOC:unpublished	ISS	P15019	F	transaldolase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPCC1020.06c	tal1		GO:0005737	GOC:unpublished	ISS	P15019	C	transaldolase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC56F2.09c	arg5		GO:0006526	GOC:unpublished	ISS	SPTR:P07258	P	carbamoyl-phosphate synthase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC56F2.09c	arg5		GO:0006538	GOC:unpublished	IC	GO:0004088	P	carbamoyl-phosphate synthase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC56F2.09c	arg5		GO:0004088	GOC:unpublished	ISS	SPTR:P07258	F	carbamoyl-phosphate synthase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC56F2.09c	arg5		GO:0005829	GOC:unpublished	ISS	SPTR:P07258	C	carbamoyl-phosphate synthase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC9E9.06c			GO:0009088	GOC:unpublished	ISS	SPTR:P16120	P	threonine synthase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC9E9.06c			GO:0004795	GOC:unpublished	ISS	SPTR:P16120	F	threonine synthase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC9E9.06c			GO:0008372	GOC:unpublished	ISS	SPTR:P16120	C	threonine synthase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC6G10.08	idp1		GO:0006102	GOC:unpublished	ISS	SPTR:P21954	P	isocitrate dehydrogenase (NADP+) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC6G10.08	idp1		GO:0006536	GOC:unpublished	ISS	SPTR:P21954	P	isocitrate dehydrogenase (NADP+) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC6G10.08	idp1		GO:0006099	GOC:unpublished	IC	GO:0004450	P	isocitrate dehydrogenase (NADP+) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC6G10.08	idp1		GO:0004450	GOC:unpublished	ISS	SPTR:P21954	F	isocitrate dehydrogenase (NADP+) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC6G10.08	idp1		GO:0005739	GOC:unpublished	IC	GO:0004450	C	isocitrate dehydrogenase (NADP+) (predicted)		gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPCC1442.12			GO:0003882	GOC:unpublished	ISS	SPTR:P08456	F	CDP-diacylglycerol--serine O-phosphatidyltransferase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPCC1442.12			GO:0005789	GOC:unpublished	ISS	SPTR:P08456	C	CDP-diacylglycerol--serine O-phosphatidyltransferase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.03	rpc10		GO:0006360	GOC:unpublished	IC	GO:0003899	P	DNA-directed RNA polymerase (I, II, and III subunit)	rpb12	gene	taxon:4896	20030807	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.03	rpc10		GO:0006366	GOC:unpublished	IC	GO:0003899	P	DNA-directed RNA polymerase (I, II, and III subunit)	rpb12	gene	taxon:4896	20030807	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.03	rpc10		GO:0006383	GOC:unpublished	IC	GO:0003899	P	DNA-directed RNA polymerase (I, II, and III subunit)	rpb12	gene	taxon:4896	20030807	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.03	rpc10		GO:0003899	GOC:9290054	IDA	SPTR:P48011	F	DNA-directed RNA polymerase (I, II, and III subunit)	rpb12	gene	taxon:4896	20030807	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.03	rpc10		GO:0005736	GOC:unpublished	ISS	SPTR:P40422	C	DNA-directed RNA polymerase (I, II, and III subunit)	rpb12	gene	taxon:4896	20030807	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.03	rpc10		GO:0005665	GOC:unpublished	ISS	SPTR:P40422	C	DNA-directed RNA polymerase (I, II, and III subunit)	rpb12	gene	taxon:4896	20030807	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.03	rpc10		GO:0005666	GOC:unpublished	ISS	SPTR:P40422	C	DNA-directed RNA polymerase (I, II, and III subunit)	rpb12	gene	taxon:4896	20030807	GeneDB_Spombe
+GeneDB_Spombe	SPBC15D4.09c			GO:0006534	GOC:unpublished	ISS	SPTR:P47164	P	cystathionine gamma-synthase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC15D4.09c			GO:0019281	GOC:unpublished	ISS	SPTR:P47164	P	cystathionine gamma-synthase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC15D4.09c			GO:0003962	GOC:unpublished	ISS	SPTR:P47164	F	cystathionine gamma-synthase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC15D4.09c			GO:0008372	GOC:unpublished	ISS	SPTR:P47164	C	cystathionine gamma-synthase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC70.03c			GO:0006562	GOC:unpublished	ISS	SPTR:P09368	P	proline dehydrogenase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC70.03c			GO:0006537	GOC:unpublished	ISS	SPTR:P09368	P	proline dehydrogenase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC70.03c			GO:0004657	GOC:unpublished	ISS	SPTR:P09368	F	proline dehydrogenase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC23H3.09c	gly1		GO:0006545	GOC:unpublished	ISS	SPTR:P37303	P	threonine aldolase activity (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC23H3.09c	gly1		GO:0006567	GOC:unpublished	ISS	SPTR:P37303	P	threonine aldolase activity (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC23H3.09c	gly1		GO:0004793	GOC:unpublished	ISS	SPTR:P37303	F	threonine aldolase activity (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC23H3.09c	gly1		GO:0006544	GOC:unpublished	ISS	SPTR:P37303	P	threonine aldolase activity (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC1235.15	dga1		GO:0004144	PMID: 12963726	IDA		F	diacylglycerol O-acyltransferase (PMID 12963726)	SPCC548.01	gene	taxon:4896	20030911	GeneDB_Spombe
+GeneDB_Spombe	SPCC1235.15	dga1		GO:0019432	PMID: 12963726	IDA		P	diacylglycerol O-acyltransferase (PMID 12963726)	SPCC548.01	gene	taxon:4896	20030911	GeneDB_Spombe
+GeneDB_Spombe	SPCC1235.15	dga1		GO:0046339	PMID: 12963726	IC	GO:0004144	P	diacylglycerol O-acyltransferase (PMID 12963726)	SPCC548.01	gene	taxon:4896	20030911	GeneDB_Spombe
+GeneDB_Spombe	SPCC1235.15	dga1		GO:0019915	PMID: 12963726	IC	GO:0004144	P	diacylglycerol O-acyltransferase (PMID 12963726)	SPCC548.01	gene	taxon:4896	20030911	GeneDB_Spombe
+GeneDB_Spombe	SPCC11E10.01			GO:0019279	GOC:unpublished	IC	GO:0004121	P	cystathionine beta-lyase (predicted)	SPCC61.06	gene	taxon:4896	20030724	GeneDB_Spombe
+GeneDB_Spombe	SPCC11E10.01			GO:0004121	GOC:unpublished	ISS	SPTR:Q96VU8	F	cystathionine beta-lyase (predicted)	SPCC61.06	gene	taxon:4896	20030724	GeneDB_Spombe
+GeneDB_Spombe	SPCC11E10.01			GO:0005777	GOC:unpublished	ISS	SPTR:P53101	C	cystathionine beta-lyase (predicted)	SPCC61.06	gene	taxon:4896	20030724	GeneDB_Spombe
+GeneDB_Spombe	SPAC22G7.06c	ura1		GO:0016763	GOC:unpublished	ISS	SPTR:Q09794	F	ATP binding		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22G7.06c	ura1		GO:0006536	PMID:8590465	IC	GO:0016763	P	ATP binding		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22G7.06c	ura1		GO:0019856	PMID:8590465	IGI	SPTR:Q09794	P	ATP binding		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22G7.06c	ura1		GO:0006531	PMID:8590465	IC	GO:0016763	P	ATP binding		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22G7.06c	ura1		GO:0004088	PMID:8590465	IGI	SPTR:Q09794	F	ATP binding		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22G7.06c	ura1		GO:0004070	PMID:8590465	IGI	SPTR:Q09794	F	ATP binding		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22G7.06c	ura1		GO:0004151	PMID:8590465	IGI	SPTR:Q09794	F	ATP binding		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC22G7.06c	ura1		GO:0005737	GOC:unpublished	ISS	SPTR:P07259	C	ATP binding		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.09			GO:0006435	GOC:unpublished	ISS	SPTR:P07236	P	threonine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.09			GO:0004829	GOC:unpublished	ISS	SPTR:P07236	F	threonine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.09			GO:0005739	GOC:unpublished	ISS	SPTR:P07236	C	threonine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC1556.02c	sdh1		GO:0006099	GOC:unpublished	ISS	SPTR:Q00711	P	succinate dehydrogenase (ubiquinone) (predicted)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC1556.02c	sdh1		GO:0006121	GOC:unpublished	ISS	SPTR:Q00711	P	succinate dehydrogenase (ubiquinone) (predicted)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC1556.02c	sdh1		GO:0006105	GOC:unpublished	IC	GO:0008177	P	succinate dehydrogenase (ubiquinone) (predicted)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC1556.02c	sdh1		GO:0008177	GOC:unpublished	ISS	SPTR:Q00711	F	succinate dehydrogenase (ubiquinone) (predicted)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC1556.02c	sdh1		GO:0005749	GOC:unpublished	ISS	SPTR:Q00711	C	succinate dehydrogenase (ubiquinone) (predicted)		gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPBC660.16			GO:0009051	GOC:unpublished	IC	GO:0004616	P	phosphogluconate dehydrogenase, decarboxylating (predicted)		gene	taxon:4896	20030703	GeneDB_Spombe
+GeneDB_Spombe	SPBC660.16			GO:0006006	GOC:unpublished	ISS	SPTR:P38720	P	phosphogluconate dehydrogenase, decarboxylating (predicted)		gene	taxon:4896	20030703	GeneDB_Spombe
+GeneDB_Spombe	SPBC660.16			GO:0004616	GOC:unpublished	ISS	SPTR:P38720	F	phosphogluconate dehydrogenase, decarboxylating (predicted)		gene	taxon:4896	20030703	GeneDB_Spombe
+GeneDB_Spombe	SPBC660.16			GO:0005737	GOC:unpublished	ISS	SPTR:P38720	C	phosphogluconate dehydrogenase, decarboxylating (predicted)		gene	taxon:4896	20030703	GeneDB_Spombe
+GeneDB_Spombe	SPCC622.12c			GO:0019268	GOC:unpublished	ISS	SPTR:P07262	P	NADP-specific glutamate dehydrogenase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPCC622.12c			GO:0006807	GOC:unpublished	ISS	SPTR:P39708	P	NADP-specific glutamate dehydrogenase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPCC622.12c			GO:0004354	GOC:unpublished	ISS	SPTR:P07262	F	NADP-specific glutamate dehydrogenase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC18G6.04c	shm2		GO:0006544	GOC:unpublished	IC	GO:0004372	P	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC18G6.04c	shm2		GO:0006563	GOC:unpublished	IC	GO:0004372	P	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC18G6.04c	shm2		GO:0006730	GOC:unpublished	IC	GO:0004372	P	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC18G6.04c	shm2		GO:0004372	GOC:unpublished	ISS	SPTR:P37292	F	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC18G6.04c	shm2		GO:0005739	GOC:unpublished	ISS	SPTR:P37292	C	serine hydroxymethyltransferase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC417.11c			GO:0008483	GOC:unpublished	IC	PFAM:PF00202	F	aminotransferase (predicted)		gene	taxon:4896	20030606	GeneDB_Spombe
+GeneDB_Spombe	SPCC417.11c			GO:0000004	GOC:unpublished	ND		P	aminotransferase (predicted)		gene	taxon:4896	20030606	GeneDB_Spombe
+GeneDB_Spombe	SPCC417.11c			GO:0008372	GOC:unpublished	ND		C	aminotransferase (predicted)		gene	taxon:4896	20030606	GeneDB_Spombe
+GeneDB_Spombe	SPBC342.02			GO:0006425	GOC:unpublished	IC	GO:0004819	P	glutaminyl-tRNA synthetase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPBC342.02			GO:0004819	GOC:unpublished	ISS	SPTR:P13188	F	glutaminyl-tRNA synthetase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPBC342.02			GO:0005737	GOC:unpublished	ISS	SPTR:P13188	C	glutaminyl-tRNA synthetase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPBC30D10.13c	pdb1		GO:0006086	GOC:unpublished	ISS	SPTR:P53306	P	pyruvate dehydrogenase e1 component (beta subunit)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC30D10.13c	pdb1		GO:0004739	GOC:unpublished	ISS	SPTR:P53306	F	pyruvate dehydrogenase e1 component (beta subunit)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC30D10.13c	pdb1		GO:0005967	GOC:unpublished	ISS	SPTR:P53306	C	pyruvate dehydrogenase e1 component (beta subunit)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC30D10.13c	pdb1		GO:0005739	GOC:unpublished	ISS	SPTR:P53306	C	pyruvate dehydrogenase e1 component (beta subunit)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC725.14			GO:0006592	GOC:unpublished	ISS	SPTR:P40360	P	acetylglutamate synthase (predicted)		gene	taxon:4896	20030606	GeneDB_Spombe
+GeneDB_Spombe	SPBC725.14			GO:0006526	GOC:unpublished	ISS	SPTR:P40360	P	acetylglutamate synthase (predicted)		gene	taxon:4896	20030606	GeneDB_Spombe
+GeneDB_Spombe	SPBC725.14			GO:0006538	GOC:unpublished	IC	GO:0004358	P	acetylglutamate synthase (predicted)		gene	taxon:4896	20030606	GeneDB_Spombe
+GeneDB_Spombe	SPBC725.14			GO:0004042	GOC:unpublished	ISS	SPTR:P40360	F	acetylglutamate synthase (predicted)		gene	taxon:4896	20030606	GeneDB_Spombe
+GeneDB_Spombe	SPBC725.14			GO:0005759	GOC:unpublished	ISS	SPTR:P40360	C	acetylglutamate synthase (predicted)		gene	taxon:4896	20030606	GeneDB_Spombe
+GeneDB_Spombe	SPBP35G2.03c	sgo1	NOT	GO:0000070	GOC:unpublished	IMP		P	localization spindle pole body (ISS)		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPBP35G2.03c	sgo1		GO:0045144	GOC:unpublished	IMP		P	localization spindle pole body (ISS)		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPBP35G2.03c	sgo1		GO:0045143	GOC:unpublished	IMP		P	localization spindle pole body (ISS)		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPBP35G2.03c	sgo1		GO:0005634	GOC:unpublished	ISS	SPTR:Q08490	C	localization spindle pole body (ISS)		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPBP35G2.03c	sgo1		GO:0005816	GOC:unpublished	ISS	SPTR:Q08490	C	localization spindle pole body (ISS)		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C7.06			GO:0006433	GOC:unpublished	IC	GO:0004827	P	proline-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C7.06			GO:0004827	GOC:unpublished	ISS	IPR:IPR002316	F	proline-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C7.06			GO:0008372	GOC:unpublished	ND		C	proline-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC902.05c	idh2		GO:0006099	GOC:unpublished	ISS	SPTR:P28241	P	isocitrate dehydrogenase (NAD+) subunit 2	glu2	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPBC902.05c	idh2		GO:0006102	GOC:unpublished	ISS	SPTR:P28241	P	isocitrate dehydrogenase (NAD+) subunit 2	glu2	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPBC902.05c	idh2		GO:0006537	GOC:7903653	IDA	SPTR:Q9USP8	P	isocitrate dehydrogenase (NAD+) subunit 2	glu2	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPBC902.05c	idh2		GO:0004449	GOC:7903653	IDA	SPTR:Q9USP8	F	isocitrate dehydrogenase (NAD+) subunit 2	glu2	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPBC902.05c	idh2		GO:0005759	GOC:unpublished	ISS	SPTR:P28241	C	isocitrate dehydrogenase (NAD+) subunit 2	glu2	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPCC1223.07c			GO:0006422	GOC:unpublished	IC	GO:0004815	P	aspartate-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPCC1223.07c			GO:0004815	GOC:unpublished	ISS	SPTR:P04802	F	aspartate-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPCC1223.07c			GO:0005737	GOC:unpublished	ISS	SPTR:P04802	C	aspartate-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C4.15	rpb5		GO:0006360	GOC:unpublished	IC	GO:0005665	P	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 9077438)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C4.15	rpb5		GO:0006366	PMID:9499374	IDA		P	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 9077438)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C4.15	rpb5		GO:0006383	GOC:unpublished	IC	GO:0005665	P	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 9077438)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C4.15	rpb5		GO:0003899	PMID:9499374	IDA		F	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 9077438)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C4.15	rpb5		GO:0005736	GOC:unpublished	IC	GO:0005665	C	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 9077438)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C4.15	rpb5		GO:0016591	PMID:9499374	IDA		C	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 9077438)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPAC23C4.15	rpb5		GO:0005666	GOC:unpublished	IC	GO:0005665	C	DNA-directed RNA polymerase (I, II, and III subunit) (PMID 9077438)		gene	taxon:4896	20030725	GeneDB_Spombe
+GeneDB_Spombe	SPBC8D2.06			GO:0006428	GOC:unpublished	IC	GO:0004822	P	isoleucine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPBC8D2.06			GO:0004822	GOC:unpublished	ISS	SPTR:P09436	F	isoleucine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPBC8D2.06			GO:0005829	GOC:unpublished	ISS	SPTR:P09436	C	isoleucine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC364.07			GO:0006564	GOC:unpublished	ISS	SPTR:P40054	P	D-3 phosphoglycerate dehydrogenase (predicted)	SPCC4G3.01	gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPCC364.07			GO:0004617	GOC:unpublished	ISS	SPTR:P40054	F	D-3 phosphoglycerate dehydrogenase (predicted)	SPCC4G3.01	gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPCC364.07			GO:0008372	GOC:unpublished	ISS	SPTR:P40054	F	D-3 phosphoglycerate dehydrogenase (predicted)	SPCC4G3.01	gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC6C3.04	cit1		GO:0006099	GOC:unpublished	ISS	SPTR:P00890	P	citrate synthase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC6C3.04	cit1		GO:0006101	GOC:unpublished	ISS	SPTR:P00890	P	citrate synthase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC6C3.04	cit1		GO:0004108	GOC:unpublished	ISS	SPTR:P00890	F	citrate synthase (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC6C3.04	cit1		GO:0005739	GOC:unpublished	IC	GOid=GO:0004108	C	citrate synthase (predicted)		gene	taxon:4896	20030619	GeneDB_Spombe
+GeneDB_Spombe	SPCC736.06			GO:0006422	GOC:unpublished	IC	GO:0004815	P	aspartate-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPCC736.06			GO:0004815	GOC:unpublished	ISS	SPTR:P15179	F	aspartate-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPCC736.06			GO:0005739	GOC:unpublished	ISS	SPTR:P15179	C	aspartate-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPBC337.16	cho1		GO:0006656	PMID:9755189	ISS	SPTR:O74786 date=20030611	P	phospholipid methyltransferase (PMID 9755189)		gene	taxon:4896	20040205	GeneDB_Spombe
+GeneDB_Spombe	SPBC337.16	cho1		GO:0000773	PMID:9755189	ISS	SPTR:O74786 date=20030611	P	phospholipid methyltransferase (PMID 9755189)		gene	taxon:4896	20040205	GeneDB_Spombe
+GeneDB_Spombe	SPBC337.16	cho1		GO:0005789	PMID:9755189	ISS	SPTR:O74786 date=20030611	C	phospholipid methyltransferase (PMID 9755189)		gene	taxon:4896	20040205	GeneDB_Spombe
+GeneDB_Spombe	SPCC1450.13c			GO:0042726	PMID 14690539	IDA		P	riboflavin synthase activity (PMID 14690539)		gene	taxon:4896	20040105	GeneDB_Spombe
+GeneDB_Spombe	SPCC1450.13c			GO:0004746	PMID 14690539	IDA		F	riboflavin synthase activity (PMID 14690539)		gene	taxon:4896	20040105	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.06c			GO:0006101	GOC:unpublished	ISS	SPTR:P19414	P	aconitate hydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.06c			GO:0006536	GOC:unpublished	ISS	SPTR:P19414	P	aconitate hydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.06c			GO:0019541	GOC:unpublished	ISS	SPTR:P19414	P	aconitate hydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.06c			GO:0006099	GOC:unpublished	ISS	SPTR:P19414	P	aconitate hydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.06c			GO:0003994	GOC:unpublished	ISS	SPTR:P19414	F	aconitate hydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.06c			GO:0005829	GOC:unpublished	ISS	SPTR:P19414	C	aconitate hydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC24C9.06c			GO:0005759	GOC:unpublished	ISS	SPTR:P19414	C	aconitate hydratase (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPBC29A10.14	rec8		GO:0008278	PMID:12748297	IDA		C	involved in meiotic recombination (required)		gene	taxon:4896	20030624	GeneDB_Spombe
+GeneDB_Spombe	SPBC24C6.03			GO:0006433	GOC:unpublished	IC	GO:0004827	P	proline-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC24C6.03			GO:0004827	GOC:unpublished	ISS	IPR:IPR002316	F	proline-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPBC24C6.03			GO:0008372	GOC:unpublished	ND		C	proline-tRNA ligase (predicted)		gene	taxon:4896	20030630	GeneDB_Spombe
+GeneDB_Spombe	SPAC15A10.15	sgo2		GO:0000776	GOC:unpublished	IMP		C	hypothetical protein		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPAC15A10.15	sgo2		GO:0000070	GOC:unpublished	IMP		P	hypothetical protein		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPAC15A10.15	sgo2		GO:0045143	GOC:unpublished	IMP		P	hypothetical protein		gene	taxon:4896	20040106	GeneDB_Spombe
+GeneDB_Spombe	SPCC576.06c			GO:0006437	GOC:unpublished	IC	GO:0004831	P	tyrosine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC576.06c			GO:0004831	GOC:unpublished	ISS	SPTR:P48527	F	tyrosine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPCC576.06c			GO:0005739	GOC:unpublished	ISS	SPTR:P48527	C	tyrosine-tRNA ligase (predicted)		gene	taxon:4896	20030627	GeneDB_Spombe
+GeneDB_Spombe	SPBC16E9.18			GO:0006656	GOC:unpublished	ISS	SPTR:P39006	P	phosphatidylserine decarboxylase proenzyme 1	SPBC1E8.01	gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBC16E9.18			GO:0004609	GOC:unpublished	ISS	SPTR:P39006	F	phosphatidylserine decarboxylase proenzyme 1	SPBC1E8.01	gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBC16E9.18			GO:0005743	GOC:unpublished	ISS	SPTR:P39006	C	phosphatidylserine decarboxylase proenzyme 1	SPBC1E8.01	gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBC1703.07			GO:0006099	GOC:unpublished	IC	SPTR:GO:0003878	P	ATP citrate synthase (subunit 1) (function of complex) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1703.07			GO:0006101	GOC:unpublished	IC	GO:0003878	P	ATP citrate synthase (subunit 1) (function of complex) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1703.07			GO:0006200	GOC:unpublished	ISS	SPTR:O93988	P	ATP citrate synthase (subunit 1) (function of complex) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1703.07			GO:0006085	GOC:unpublished	ISS	SPTR:O93988	P	ATP citrate synthase (subunit 1) (function of complex) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1703.07			GO:0006633	GOC:unpublished	ISS	SPTR:O93988	P	ATP citrate synthase (subunit 1) (function of complex) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1703.07			GO:0003878	GOC:unpublished	ISS	SPTR:O93988	F	ATP citrate synthase (subunit 1) (function of complex) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC1703.07			GO:0005737	GOC:unpublished	ISS	SPTR:O93988	C	ATP citrate synthase (subunit 1) (function of complex) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.07	fba1		GO:0006096	GOC:unpublished	ISS	SPTR:P14540	P	fructose-bisphosphate aldolase (PMID 8286404)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.07	fba1		GO:0004332	GOC:unpublished	ISS	SPTR:P14540	F	fructose-bisphosphate aldolase (PMID 8286404)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPBC19C2.07	fba1		GO:0005737	GOC:unpublished	ISS	SPTR:P14540	C	fructose-bisphosphate aldolase (PMID 8286404)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPCC1259.09c			GO:0006086	GOC:unpublished	ISS	SPTR:P16451	P	pyruvate dehydrogenase protein x component (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC1259.09c			GO:0005739	GOC:unpublished	ISS	SPTR:P16451	C	pyruvate dehydrogenase protein x component (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC1259.09c			GO:0005967	GOC:unpublished	ISS	SPTR:P16451	C	pyruvate dehydrogenase protein x component (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAPYUG7.04c	rpb9		GO:0006366	PMID:9852944	IC	GO:0003899	P	DNA-directed RNA polymerase (II subunit) (PMID 9852944)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAPYUG7.04c	rpb9		GO:0003899	PMID:9852944	IDA		F	DNA-directed RNA polymerase (II subunit) (PMID 9852944)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAPYUG7.04c	rpb9		GO:0016591	PMID:9852944	IC	GO:0003899	C	DNA-directed RNA polymerase (II subunit) (PMID 9852944)		gene	taxon:4896	20030804	GeneDB_Spombe
+GeneDB_Spombe	SPAC22A12.16			GO:0006099	GOC:unpublished	IC	SPTR:GO:0003878	P	ATP-citrate synthase (subunit 2) (similar to ATP-citrate synthase N-terminal domain) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC22A12.16			GO:0006101	GOC:unpublished	IC	GO:0003878	P	ATP-citrate synthase (subunit 2) (similar to ATP-citrate synthase N-terminal domain) (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPAC22A12.16			GO:0006200	GOC:unpublished	ISS	SPTR:Q9P8D3	P	ATP-citrate synthase (subunit 2) (similar to ATP-citrate synthase N-terminal domain) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC22A12.16			GO:0006085	GOC:unpublished	ISS	SPTR:Q9P8D3	P	ATP-citrate synthase (subunit 2) (similar to ATP-citrate synthase N-terminal domain) (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPAC22A12.16			GO:0006633	GOC:unpublished	ISS	SPTR:Q9P8D3	P	ATP-citrate synthase (subunit 2) (similar to ATP-citrate synthase N-terminal domain) (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPAC22A12.16			GO:0003878	GOC:unpublished	ISS	SPTR:Q9P8D3	F	ATP-citrate synthase (subunit 2) (similar to ATP-citrate synthase N-terminal domain) (predicted)		gene	taxon:4896	20030616	GeneDB_Spombe
+GeneDB_Spombe	SPAC22A12.16			GO:0005737	GOC:unpublished	ISS	SPTR:Q9P8D3	C	ATP-citrate synthase (subunit 2) (similar to ATP-citrate synthase N-terminal domain) (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPAC644.11c			GO:0006086	GOC:unpublished	ISS	SPTR:Q9AWB1	P	pyruvate dehydrogenase (lipoamide) kinase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC644.11c			GO:0004740	GOC:unpublished	ISS	SPTR:Q9AWB1	F	pyruvate dehydrogenase (lipoamide) kinase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC644.11c			GO:0005967	GOC:unpublished	ISS	SPTR:Q9AWB1	C	pyruvate dehydrogenase (lipoamide) kinase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC644.11c			GO:0005739	GOC:unpublished	ISS	SPTR:Q9AWB1	C	pyruvate dehydrogenase (lipoamide) kinase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC18.18c	fum1		GO:0006106	GOC:unpublished	ISS	SPTR:P08417	P	fumarate hydratase (predicted)	SPCC290.01c	gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPCC18.18c	fum1		GO:0006099	GOC:unpublished	ISS	SPTR:P08417	P	fumarate hydratase (predicted)	SPCC290.01c	gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPCC18.18c	fum1		GO:0004333	GOC:unpublished	ISS	SPTR:P08417	F	fumarate hydratase (predicted)	SPCC290.01c	gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPCC18.18c	fum1		GO:0005739	GOC:unpublished	ISS	SPTR:P08417	C	fumarate hydratase (predicted)	SPCC290.01c	gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPCC18.18c	fum1		GO:0005737	GOC:unpublished	ISS	SPTR:P08417	C	fumarate hydratase (predicted)	SPCC290.01c	gene	taxon:4896	20030714	GeneDB_Spombe
+GeneDB_Spombe	SPAC869.08			GO:0004719	GOC:unpublished	ISS	SPTR:Q43209	F	protein-L-isoaspartate O-methyltransferase (predicted)		gene	taxon:4896	20030701	GeneDB_Spombe
+GeneDB_Spombe	SPAC869.08			GO:0006464	GOC:unpublished	ISS	SPTR:Q43209	P	protein-L-isoaspartate O-methyltransferase (predicted)		gene	taxon:4896	20030701	GeneDB_Spombe
+GeneDB_Spombe	SPAC869.08			GO:0008372	GOC:unpublished	ND		C	protein-L-isoaspartate O-methyltransferase (predicted)		gene	taxon:4896	20030701	GeneDB_Spombe
+GeneDB_Spombe	SPAC3A12.07	rpb11		GO:0006366	GOC:unpublished	IC	GO:0003899	P	DNA-directed RNA polymerase (II subunit) (PMID 9322754)		gene	taxon:4896	20030805	GeneDB_Spombe
+GeneDB_Spombe	SPAC3A12.07	rpb11		GO:0003899	PMID:9322754	IDA		F	DNA-directed RNA polymerase (II subunit) (PMID 9322754)		gene	taxon:4896	20030805	GeneDB_Spombe
+GeneDB_Spombe	SPAC3A12.07	rpb11		GO:0003677	PMID:9322754	IDA		F	DNA-directed RNA polymerase (II subunit) (PMID 9322754)		gene	taxon:4896	20030805	GeneDB_Spombe
+GeneDB_Spombe	SPAC3A12.07	rpb11		GO:0005665	PMID:9325316	IDA		C	DNA-directed RNA polymerase (II subunit) (PMID 9322754)		gene	taxon:4896	20030805	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.14	gcv1		GO:0006544	GOC:unpublished	ISS	SPTR:P48015	P	aminomethyltransferase (predicted)	n313	gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.14	gcv1		GO:0006546	GOC:unpublished	ISS	SPTR:P48015	P	aminomethyltransferase (predicted)	n313	gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.14	gcv1		GO:0005960	GOC:unpublished	ISS	SPTR:P48015	C	aminomethyltransferase (predicted)	n313	gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.14	gcv1		GO:0005739	GOC:unpublished	ISS	SPTR:P48015	C	aminomethyltransferase (predicted)	n313	gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.14	gcv1		GO:0004047	GOC:unpublished	ISS	SPTR:P48015	F	aminomethyltransferase (predicted)	n313	gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC688.04c	gst3		GO:0006979	PMID:11997110	TAS		P	glutathione S-transferase (PMID 12151111)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPAC688.04c	gst3		GO:0042493	PMID:12063243	ISS	SPTR:P40582	P	glutathione S-transferase (PMID 12151111)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPAC688.04c	gst3		GO:0004364	PMID:12151111	IDA		F	glutathione S-transferase (PMID 12151111)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPAC688.04c	gst3		GO:0005737	PMID:12063243	IDA		C	glutathione S-transferase (PMID 12151111)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPAC688.04c	gst3		GO:0004602	PMID:12063243	IDA		F	glutathione S-transferase (PMID 12151111)		gene	taxon:4896	20031024	GeneDB_Spombe
+GeneDB_Spombe	SPCC132.04c			GO:0006807	GOC:unpublished	ISS	SPTR:P33327	P	glutamate dehydrogenase (predicted)		gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPCC132.04c			GO:0006536	GOC:unpublished	ISS	SPTR:P33327	P	glutamate dehydrogenase (predicted)		gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPCC132.04c			GO:0004352	GOC:unpublished	ISS	SPTR:P33327	F	glutamate dehydrogenase (predicted)		gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPBP18G5.02			GO:0006655	GOC:unpublished	ISS	SPTR:P25578	P	cardiolipin biosynthesis pathway (1st step)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBP18G5.02			GO:0046168	GOC:unpublished	ISS	SPTR:P25578	P	cardiolipin biosynthesis pathway (1st step)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBP18G5.02			GO:0008444	GOC:unpublished	ISS	SPTR:P25578	F	cardiolipin biosynthesis pathway (1st step)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBP18G5.02			GO:0005739	GOC:unpublished	ISS	SPTR:P25578	C	cardiolipin biosynthesis pathway (1st step)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC105.01c			GO:0015386	GOC:unpublished	ISS	SPTR:P40309	F	potassium ion/proton antiporter		gene	taxon:4896	20031015	GeneDB_Spombe
+GeneDB_Spombe	SPAC105.01c			GO:0015672	GOC:unpublished	ISS	SPTR:P40309	P	potassium ion/proton antiporter		gene	taxon:4896	20031015	GeneDB_Spombe
+GeneDB_Spombe	SPAC105.01c			GO:0005886	GOC:unpublished	ISS	SPTR:P40309	C	potassium ion/proton antiporter		gene	taxon:4896	20031015	GeneDB_Spombe
+GeneDB_Spombe	SPAC105.01c			GO:0030007	GOC:unpublished	ISS	SPTR:P40309	P	potassium ion/proton antiporter		gene	taxon:4896	20031015	GeneDB_Spombe
+GeneDB_Spombe	SPBC1198.10c			GO:0006421	GOC:unpublished	IC	GO:0004816	P	asparagine-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPBC1198.10c			GO:0004816	GOC:unpublished	ISS	SPTR:P25345	F	asparagine-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPBC1198.10c			GO:0005739	GOC:unpublished	ISS	SPTR:P25345	C	asparagine-tRNA ligase (predicted)		gene	taxon:4896	20030620	GeneDB_Spombe
+GeneDB_Spombe	SPAC2F3.09			GO:0006544	GOC:unpublished	ISS	SPTR:P09950	P	5-aminolevulinate synthase activity (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC2F3.09			GO:0006783	GOC:unpublished	ISS	SPTR:P09950	P	5-aminolevulinate synthase activity (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC2F3.09			GO:0003870	GOC:unpublished	ISS	SPTR:P09950	F	5-aminolevulinate synthase activity (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPAC2F3.09			GO:0005759	GOC:unpublished	ISS	SPTR:P09950	C	5-aminolevulinate synthase activity (predicted)		gene	taxon:4896	20030610	GeneDB_Spombe
+GeneDB_Spombe	SPCC794.07			GO:0006086	GOC:unpublished	ISS	SPTR:P12695	P	dihydrolipoamide S-acetyltransferase activity (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC794.07			GO:0004742	GOC:unpublished	ISS	SPTR:P12695	F	dihydrolipoamide S-acetyltransferase activity (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC794.07			GO:0005739	GOC:unpublished	ISS	SPTR:P12695	C	dihydrolipoamide S-acetyltransferase activity (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPCC794.07			GO:0005967	GOC:unpublished	ISS	SPTR:P12695	C	dihydrolipoamide S-acetyltransferase activity (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC16H5.02	pfk1		GO:0006096	GOC:12237855	TAS	SPTR:O42938	P	6-phosphofructokinase (predicted)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPBC16H5.02	pfk1		GO:0000074	GOC:12237855	IDA	SPTR:O42938	P	6-phosphofructokinase (predicted)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPBC16H5.02	pfk1		GO:0003872	GOC:12237855	TAS	SPTR:O42938	F	6-phosphofructokinase (predicted)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPBC16H5.02	pfk1		GO:0005737	GOC:unpublished	ISS	SPTR:P16862	C	6-phosphofructokinase (predicted)		gene	taxon:4896	20030710	GeneDB_Spombe
+GeneDB_Spombe	SPAC144.12			GO:0009052	GOC:unpublished	IC	GO:0004751	P	ribose 5-phosphate isomerase (predicted)		gene	taxon:4896	20030701	GeneDB_Spombe
+GeneDB_Spombe	SPAC144.12			GO:0004751	GOC:unpublished	ISS	SPTR:Q12189	F	ribose 5-phosphate isomerase (predicted)		gene	taxon:4896	20030701	GeneDB_Spombe
+GeneDB_Spombe	SPAC144.12			GO:0005737	GOC:unpublished	IC	GO:0004616	C	ribose 5-phosphate isomerase (predicted)		gene	taxon:4896	20030701	GeneDB_Spombe
+GeneDB_Spombe	SPCC306.08c			GO:0006108	GOC:unpublished	ISS	SPTR:P17505	P	malate dehydrogenase (predicted)		gene	taxon:4896	20030619	GeneDB_Spombe
+GeneDB_Spombe	SPCC306.08c			GO:0006099	GOC:unpublished	ISS	SPTR:P17505	P	malate dehydrogenase (predicted)		gene	taxon:4896	20030619	GeneDB_Spombe
+GeneDB_Spombe	SPCC306.08c			GO:0030060	GOC:unpublished	ISS	SPTR:P17505	F	malate dehydrogenase (predicted)		gene	taxon:4896	20030619	GeneDB_Spombe
+GeneDB_Spombe	SPCC306.08c			GO:0005739	GOC:unpublished	IC	GOid=GO:0030060	C	malate dehydrogenase (predicted)		gene	taxon:4896	20030619	GeneDB_Spombe
+GeneDB_Spombe	SPAC29E6.06c			GO:0006423	GOC:unpublished	ISS	SPTR:P53852	P	cysteine-tRNA ligase (predicted)	SPAC30.10c	gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC29E6.06c			GO:0004817	GOC:unpublished	ISS	SPTR:P53852	F	cysteine-tRNA ligase (predicted)	SPAC30.10c	gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC29E6.06c			GO:0008372	GOC:unpublished	ND		F	cysteine-tRNA ligase (predicted)	SPAC30.10c	gene	taxon:4896	20030626	GeneDB_Spombe
+GeneDB_Spombe	SPAC26F1.03	pda1		GO:0006086	GOC:unpublished	ISS	SPTR:P16387	P	pyruvate dehydrogenase e1 component (alpha subunit) (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC26F1.03	pda1		GO:0004739	GOC:unpublished	ISS	SPTR:P16387	F	pyruvate dehydrogenase e1 component (alpha subunit) (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC26F1.03	pda1		GO:0005739	GOC:unpublished	ISS	SPTR:P16387	C	pyruvate dehydrogenase e1 component (alpha subunit) (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC26F1.03	pda1		GO:0005967	GOC:unpublished	ISS	SPTR:P16387	C	pyruvate dehydrogenase e1 component (alpha subunit) (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC11G7.03	idh1		GO:0006099	GOC:unpublished	ISS	SPTR:P28834	P	isocitrate dehydrogenase (NAD+) (subunit 1) (PMID 10975257)	glu3	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC11G7.03	idh1		GO:0006102	GOC:unpublished	ISS	SPTR:P28834	P	isocitrate dehydrogenase (NAD+) (subunit 1) (PMID 10975257)	glu3	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC11G7.03	idh1		GO:0006537	GOC:7903653	IDA	SPTR:O13696	P	isocitrate dehydrogenase (NAD+) (subunit 1) (PMID 10975257)	glu3	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC11G7.03	idh1		GO:0004449	GOC:10975257	IDA	SPTR:O13696	F	isocitrate dehydrogenase (NAD+) (subunit 1) (PMID 10975257)	glu3	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC11G7.03	idh1		GO:0005759	GOC:unpublished	ISS	SPTR:P28834	C	isocitrate dehydrogenase (NAD+) (subunit 1) (PMID 10975257)	glu3	gene	taxon:4896	20030812	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.14	vma3		GO:0006897	PMID:14735354	TAS		P	V-type ATPase		gene	taxon:4896	20040126	GeneDB_Spombe
+GeneDB_Spombe	SPAC1B3.14	vma3		GO:0007035	PMID:14735354	IDA		P	V-type ATPase		gene	taxon:4896	20040126	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0006546	GOC:unpublished	ISS	SPTR:P09624	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0006550	GOC:unpublished	ISS	SPTR:P09624	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0006552	GOC:unpublished	ISS	SPTR:P09624	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0006564	GOC:unpublished	ISS	SPTR:P09624	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0006574	GOC:unpublished	ISS	SPTR:P09624	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0000082	PMID:9366254	IGI	SPTR:O00087	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0006086	GOC:unpublished	ISS	SPTR:O00087	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0006099	GOC:unpublished	IC	GO:0004148	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0006103	GOC:unpublished	IC	GO:0006103	P	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0004148	GOC:unpublished	ISS	SPTR:O00087	F	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0005967	GOC:unpublished	ISS	SPTR:O00087	C	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC1002.09c	dld1		GO:0009353	GOC:unpublished	IC	GO:0004148	C	dihydrolipoamide dehydrogenase (predicted) (pyruvate dehydrogenase complex e3 component) (oxoglutarate dehydrogenase complex e3 component)	dldh	gene	taxon:4896	20030612	GeneDB_Spombe
+GeneDB_Spombe	SPAC25B8.06c			GO:0006434	GOC:unpublished	ISS	SPTR:P38705	P	serine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC25B8.06c			GO:0004828	GOC:unpublished	ISS	SPTR:P38705	F	serine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPAC25B8.06c			GO:0008372	GOC:unpublished	ISS	SPTR:P38705	C	serine-tRNA ligase (predicted)		gene	taxon:4896	20030609	GeneDB_Spombe
+GeneDB_Spombe	SPBC6B1.09c	nbs1		GO:0030870	PMID:12944482	IDA		C	FHA domain (phosphopeptide binding)		gene	taxon:4896	20031124	GeneDB_Spombe
+GeneDB_Spombe	SPBC6B1.09c	nbs1		GO:0000725	PMID:12944482	TAS		P	FHA domain (phosphopeptide binding)		gene	taxon:4896	20031124	GeneDB_Spombe
+GeneDB_Spombe	SPBC6B1.09c	nbs1		GO:0000723	PMID:12944482	IDA		P	FHA domain (phosphopeptide binding)		gene	taxon:4896	20031124	GeneDB_Spombe
+GeneDB_Spombe	SPBC6B1.09c	nbs1		GO:0000077	PMID:12944482	IDA		P	FHA domain (phosphopeptide binding)		gene	taxon:4896	20031124	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.15			GO:0006656	GOC:unpublished	ISS	SPTR:P53037	P	phosphatidylserine decarboxylase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.15			GO:0004609	GOC:unpublished	ISS	SPTR:P53037	F	phosphatidylserine decarboxylase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.15			GO:0000139	GOC:unpublished	ISS	SPTR:P53037	C	phosphatidylserine decarboxylase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPAC31G5.15			GO:0000329	GOC:unpublished	ISS	SPTR:P53037	C	phosphatidylserine decarboxylase (predicted)		gene	taxon:4896	20030611	GeneDB_Spombe
+GeneDB_Spombe	SPBP4H10.15			GO:0006099	GOC:unpublished	ISS	SPTR:O94136	P	aconitate hydratase (predicted)		gene	taxon:4896	20030603	GeneDB_Spombe
+GeneDB_Spombe	SPBP4H10.15			GO:0006101	GOC:unpublished	IC	GO:0003994	P	aconitate hydratase (predicted)		gene	taxon:4896	20030603	GeneDB_Spombe
+GeneDB_Spombe	SPBP4H10.15			GO:0003994	GOC:unpublished	ISS	SPTR:O94136	F	aconitate hydratase (predicted)		gene	taxon:4896	20030603	GeneDB_Spombe
+GeneDB_Spombe	SPBP4H10.15			GO:0005739	GOC:unpublished	IC	PMID:9988478	C	aconitate hydratase (predicted)		gene	taxon:4896	20030603	GeneDB_Spombe
