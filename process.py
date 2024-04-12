@@ -22,6 +22,22 @@ evidence_codes = [
     'IMP', 'IPI', 'ISM', 'ISO', 'ISS', 'NAS', 'ND', 'RCA', 'TAS'
 ]
 
+ev_code_groups = {
+    'Manual': [
+        'EXP', 'IC', 'IDA', 'IEP', 'IGC', 'IGI', 'IKR',
+        'IMP', 'IPI', 'ISM', 'ISO', 'ISS', 'NAS', 'ND', 'RCA', 'TAS'
+    ],
+    'Electronic annotation': [
+        'IEA',
+    ],
+}
+
+groups_by_code = {}
+
+for name, codes in ev_code_groups.items():
+    for code in codes:
+        groups_by_code[code] = name
+
 plot_columns = [ 'date', 'IEA', 'IEP', 'IKR', 'RCA', 'NAS', 'TAS' ]
 
 seen_dates = {}
