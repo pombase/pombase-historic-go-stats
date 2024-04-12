@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# Run with:
+#   python3 process.py
+# Or:
+#   python3 process.py use_groups
+
 import polars as pl
 import os
 import io
@@ -23,7 +28,7 @@ gafs.sort()
 gaf_pattern = re.compile('^(\d\d\d\d-\d\d-\d\d).*');
 
 evidence_codes = [
-    'EXP', 'IC', 'IDA', 'IEA', 'IEP', 'IGC', 'IGI', 'IKR',
+    'IEA', 'EXP', 'IC', 'IDA', 'IEP', 'IGC', 'IGI', 'IKR',
     'HDA', 'HMP', 'IBA', 'ISA',
     'IMP', 'IPI', 'ISM', 'ISO', 'ISS', 'NAS', 'ND', 'RCA', 'TAS'
 ]
@@ -32,11 +37,19 @@ ev_code_groups = {
     'Electronic annotation': [
         'IEA',
     ],
-    'Manual': [
-        'EXP', 'IC', 'IDA', 'IEP', 'IGC', 'IGI', 'IKR',
-        'HDA', 'HMP', 'IBA', 'ISA',
-        'IMP', 'IPI', 'ISM', 'ISO', 'ISS', 'NAS', 'ND', 'RCA', 'TAS'
+    'Author statements': [
+        'TAS', 'IC', 'NAS'
     ],
+    'Manual from orthologs': [
+        'ISM', 'ISO', 'ISS',
+    ],
+    'Experimental': [
+        'EXP',
+         'IDA', 'IEP', 'IGC', 'IGI', 'IKR',
+        'HDA', 'HMP', 'ISA',
+        'IMP', 'IPI',  'ND', 'RCA', 
+    ],
+    'IBA': ['IBA'],
 }
 
 groups_by_code = {}
