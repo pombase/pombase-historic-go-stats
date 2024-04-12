@@ -50,11 +50,17 @@ def process_one_file(gaf_file):
                      ignore_errors=True, has_header=False,
                      new_columns=cols, comment_prefix="!").select('evidence_code')
 
-    count_df = (df.group_by('evidence_code').len(name=date)
-                .melt('evidence_code', value_name='count', variable_name='date').collect()
-                .pivot(index='date', columns='evidence_code', values='count'))
+    count_df = df.group_by('evidence_code').len(name='count')
 
-    return count_df.select(pl.col('*').exclude('***'))
+    new_df_data = { 'date': date }
+
+    for ev_code, count in count_df.collect().iter_rows():
+        if ev_code != '***':
+            new_df_data[ev_code] = count
+
+    new_df = pl.DataFrame(new_df_data)
+
+    return new_df
 
 all_df = process_one_file(gafs[0])
 
