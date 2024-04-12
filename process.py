@@ -11,6 +11,11 @@ import seaborn as sns
 
 hvplot.extension('matplotlib')
 
+use_groups = False
+
+if len(sys.argv) > 1 and sys.argv[1] == 'use_groups':
+    use_groups = True
+
 gafs = os.listdir('data')
 
 gafs.sort()
@@ -19,16 +24,18 @@ gaf_pattern = re.compile('^(\d\d\d\d-\d\d-\d\d).*');
 
 evidence_codes = [
     'EXP', 'IC', 'IDA', 'IEA', 'IEP', 'IGC', 'IGI', 'IKR',
+    'HDA', 'HMP', 'IBA', 'ISA',
     'IMP', 'IPI', 'ISM', 'ISO', 'ISS', 'NAS', 'ND', 'RCA', 'TAS'
 ]
 
 ev_code_groups = {
-    'Manual': [
-        'EXP', 'IC', 'IDA', 'IEP', 'IGC', 'IGI', 'IKR',
-        'IMP', 'IPI', 'ISM', 'ISO', 'ISS', 'NAS', 'ND', 'RCA', 'TAS'
-    ],
     'Electronic annotation': [
         'IEA',
+    ],
+    'Manual': [
+        'EXP', 'IC', 'IDA', 'IEP', 'IGC', 'IGI', 'IKR',
+        'HDA', 'HMP', 'IBA', 'ISA',
+        'IMP', 'IPI', 'ISM', 'ISO', 'ISS', 'NAS', 'ND', 'RCA', 'TAS'
     ],
 }
 
@@ -72,7 +79,13 @@ def process_one_file(gaf_file):
 
     for ev_code, count in count_df.collect().iter_rows():
         if ev_code != '***':
-            new_df_data[ev_code] = count
+            if use_groups:
+                group_name = groups_by_code[ev_code]
+                if group_name not in new_df_data:
+                    new_df_data[group_name] = 0
+                new_df_data[group_name] += count
+            else:
+                new_df_data[ev_code] = count
 
     new_df = pl.DataFrame(new_df_data)
 
@@ -88,12 +101,22 @@ for gaf in gafs:
 
     all_df = pl.concat([all_df, count_df], how='align').fill_null(value=0)
 
+all_df_column_names = ['date'] + evidence_codes
+
+if use_groups:
+    all_df_column_names = ['date'] + list(ev_code_groups.keys())
+
 all_df = (all_df.with_columns(pl.col('date').str.to_date("%Y-%m-%d"))
-          .select(['date'] + evidence_codes))
+          .select(all_df_column_names))
 
 all_df = all_df.group_by('date').sum().sort('date')
 
 all_df.write_csv('table.tsv', separator="\t")
+
+#print(all_df.with_columns(pl.col('date').dt.to_string("%Y-%m-%d")).head())
+
+#print(all_df.with_columns(pl.col('date').dt.datetime()))
+
 
 ## average per year:
 #pandas_df = (all_df
