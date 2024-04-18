@@ -151,12 +151,17 @@ pandas_df = (all_df.with_columns(pl.col('date').dt.to_string("%Y-%m-%d"))
 
 
 plt.figure().clear()
-sns.set(rc={"figure.figsize":(36, 15)})
-plt.rcParams["savefig.dpi"] = 15
-sns.set_theme(style="whitegrid")
+sns.set(style="whitegrid", font_scale=0.7)
+fig, ax = plt.subplots(dpi=300, figsize=(16, 10))
 sns.set_palette("deep")
 
-plot = pandas_df.plot(kind='bar',stacked=True, width=0.9, edgecolor='none')
+plot = pandas_df.plot(ax=ax, kind='bar',stacked=True, width=0.8, edgecolor='none')
+plot.set_ylabel('Number of annotations', fontsize=22)
+plot.set_xlabel(None)
+ax.yaxis.set_tick_params(labelsize = 16);
+ax.xaxis.set_tick_params(labelsize = 6);
 
-plot.get_figure().savefig('figure.svg', format="svg",
-                          pad_inches=0.2, bbox_inches="tight")
+plt.legend(fontsize='18')
+
+fig.savefig('figure.svg', format="svg",
+            pad_inches=0.2, bbox_inches="tight")
