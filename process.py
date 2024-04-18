@@ -92,6 +92,8 @@ def process_one_file(gaf_file):
 
     for ev_code, count in count_df.collect().iter_rows():
         if ev_code != '***':
+            if date < '2005-01-01':
+                ev_code = 'IEA'
             if use_groups:
                 group_name = groups_by_code[ev_code]
                 if group_name not in new_df_data:
