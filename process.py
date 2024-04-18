@@ -43,13 +43,13 @@ ev_code_groups = {
     'Manual from orthologs': [
         'ISM', 'ISO', 'ISS',
     ],
+    'Phylogenetic inference': ['IBA'],
     'Experimental': [
         'EXP',
          'IDA', 'IEP', 'IGC', 'IGI', 'IKR',
         'HDA', 'HMP', 'ISA',
         'IMP', 'IPI',  'ND', 'RCA', 
     ],
-    'IBA': ['IBA'],
 }
 
 groups_by_code = {}
