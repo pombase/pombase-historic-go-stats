@@ -5,10 +5,12 @@
 # Or:
 #   python3 process.py use_groups
 
-import polars as pl
 import os
 import re
 import sys
+from pathlib import Path
+
+import polars as pl
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -58,6 +60,10 @@ plot_columns = [ 'date', 'IEA', 'IEP', 'IKR', 'RCA', 'NAS', 'TAS' ]
 
 seen_dates = {}
 
+cache_dir = 'cached_data'
+
+Path(cache_dir).mkdir(exist_ok=True)
+
 def process_one_file(gaf_file):
     match = gaf_pattern.match(gaf_file)
     if match is None:
@@ -65,7 +71,7 @@ def process_one_file(gaf_file):
         sys.exit(1)
 
     raw_file = f"raw_data/{gaf_file}"
-    processed_file = f"data/{gaf_file}.parquet"
+    processed_file = f"{cache_dir}/{gaf_file}.parquet"
 
     if not Path(processed_file).is_file():
         print(f"recreating {processed_file}")
@@ -82,7 +88,7 @@ def process_one_file(gaf_file):
 
         df = df.select(['db_object_id', 'qualifier', 'evidence_code'])
 
-#        df.write_csv(f'data/{gaf_file}', quote_style='necessary')
+#        df.write_csv(f'{cache_dir}/{gaf_file}', quote_style='necessary')
         df.write_parquet(processed_file)
 
     date = match.group(1)
@@ -91,7 +97,7 @@ def process_one_file(gaf_file):
         'db_object_id', 'qualifier', 'evidence_code',
     ]
 
-    df = pl.scan_parquet(f"data/{gaf_file}.parquet")
+    df = pl.scan_parquet(f"{cache_dir}/{gaf_file}.parquet")
 
     df = df.filter(~pl.col('qualifier').str.contains(r'\bNOT\b'))
     df = df.filter(~(pl.col('db_object_id').str.contains('RNA') & (pl.col('evidence_code') == 'ND')))
