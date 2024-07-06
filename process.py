@@ -14,10 +14,7 @@ import seaborn as sns
 
 from pathlib import Path
 
-use_groups = False
-
-if len(sys.argv) > 1 and sys.argv[1] == 'use_groups':
-    use_groups = True
+use_groups = True
 
 gafs = os.listdir('raw_data')
 
