@@ -7,3 +7,5 @@ Other GAF files can be added to `extra_pombase_data/` to keep to
 complete history of changes
 
 To re-generate figure.svg and table.tsv, run `process.py`
+
+Copy `figure.svg` to `website/src/assets/pombase_history_go_ev_codes.svg`
