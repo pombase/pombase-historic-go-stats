@@ -5,4 +5,4 @@ lib64
 *.tmp
 share/
 
-/data/
+/cached_data/
