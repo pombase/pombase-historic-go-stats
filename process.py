@@ -23,7 +23,7 @@ gafs = os.listdir('raw_data')
 
 gafs.sort()
 
-gaf_pattern = re.compile('^(\d\d\d\d-\d\d-\d\d).*');
+gaf_pattern = re.compile(r'^(\d\d\d\d-\d\d-\d\d).*');
 
 evidence_codes = [
     'IEA', 'EXP', 'IC', 'IDA', 'IEP', 'IGC', 'IGI', 'IKR',
