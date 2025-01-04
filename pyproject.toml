@@ -3,7 +3,7 @@ name = "pombase-historic-go-stats"
 version = "0.1.0"
 description = "Processing code for historic PomBase GAF files"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = "==3.12.*"
 dependencies = [
     "polars",
     "matplotlib",
