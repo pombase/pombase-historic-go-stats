@@ -14,7 +14,7 @@ complete history of changes.
 To re-generate figure.svg and table.tsv:
 
 ```sh
-uv run ./process.py
+(unset DISPLAY; uv run ./process.py)
 ```
 
 Then copy `figure.svg` to `website/src/assets/pombase_history_go_ev_codes.svg` \
